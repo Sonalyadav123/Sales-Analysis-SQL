@@ -1,0 +1,1001 @@
+OrderID,OrderDate,CustomerID,ProductName,Category,Quantity,UnitPrice,DiscountPercent,TotalAmount,Region,PaymentMethod
+ORD1000,24-03-2024,CUST35,Smartwatch,Accessories,5,3289,6,15458.3,West,Credit Card
+ORD1001,14-07-2024,CUST300,Headphones,Accessories,3,4267,5,12160.95,East,UPI
+ORD1002,20-03-2024,CUST66,Mobile,Electronics,4,44566,17,147959.12,South,Credit Card
+ORD1003,07-07-2024,CUST289,Mobile,Electronics,3,63083,19,153291.69,North,UPI
+ORD1004,06-10-2024,CUST33,Laptop,Electronics,5,67621,6,317818.7,West,Credit Card
+ORD1005,15-07-2024,CUST145,Headphones,Accessories,2,9843,19,15945.66,East,Debit Card
+ORD1006,20-08-2024,CUST214,Smartwatch,Accessories,1,6818,3,6613.46,South,UPI
+ORD1007,29-01-2024,CUST294,Laptop,Electronics,4,17686,12,62254.72,West,Cash on Delivery
+ORD1008,20-11-2024,CUST115,Headphones,Accessories,3,4879,12,12880.56,North,UPI
+ORD1009,29-07-2024,CUST160,Tablet,Electronics,5,23501,5,111629.75,South,Debit Card
+ORD1010,08-01-2024,CUST240,Laptop,Electronics,1,10689,3,10368.33,North,Cash on Delivery
+ORD1011,08-10-2024,CUST25,Smartwatch,Accessories,3,9451,6,26651.82,South,Credit Card
+ORD1012,18-09-2024,CUST69,Mobile,Electronics,4,63078,8,232127.04,North,Debit Card
+ORD1013,24-10-2024,CUST14,Headphones,Accessories,3,3364,14,8679.12,West,Cash on Delivery
+ORD1014,23-08-2024,CUST277,Smartwatch,Accessories,3,5694,14,14690.52,East,Cash on Delivery
+ORD1015,29-09-2024,CUST82,Smartwatch,Accessories,4,3585,16,12045.6,South,Credit Card
+ORD1016,07-03-2024,CUST107,Smartwatch,Accessories,1,7695,9,7002.45,South,UPI
+ORD1017,14-12-2024,CUST45,Smartwatch,Accessories,5,4577,2,22427.3,East,UPI
+ORD1018,30-10-2024,CUST180,Headphones,Accessories,2,9896,12,17416.96,North,Credit Card
+ORD1019,13-05-2024,CUST249,Headphones,Accessories,3,9224,18,22691.04,East,UPI
+ORD1020,25-09-2024,CUST278,Tablet,Electronics,2,35324,13,61463.76,East,Debit Card
+ORD1021,03-01-2024,CUST126,Laptop,Electronics,4,73879,2,289605.68,North,Debit Card
+ORD1022,10-02-2024,CUST257,Laptop,Electronics,2,12182,5,23145.8,North,UPI
+ORD1023,31-07-2024,CUST75,Smartwatch,Accessories,1,5775,1,5717.25,East,Credit Card
+ORD1024,25-07-2024,CUST124,Smartwatch,Accessories,2,1143,13,1988.82,South,UPI
+ORD1025,17-12-2024,CUST30,Smartwatch,Accessories,3,8720,9,23805.6,West,Debit Card
+ORD1026,28-08-2024,CUST250,Headphones,Accessories,3,5004,10,13510.8,South,Debit Card
+ORD1027,09-10-2024,CUST188,Laptop,Electronics,2,21092,18,34590.88,South,Debit Card
+ORD1028,31-03-2024,CUST249,Headphones,Accessories,3,1417,16,3570.84,West,Credit Card
+ORD1029,12-07-2024,CUST30,Laptop,Electronics,3,63310,12,167138.4,North,Credit Card
+ORD1030,27-11-2024,CUST23,Headphones,Accessories,3,5553,8,15326.28,West,UPI
+ORD1031,28-08-2024,CUST150,Headphones,Accessories,1,7541,2,7390.18,South,Cash on Delivery
+ORD1032,17-08-2024,CUST60,Headphones,Accessories,4,6979,12,24566.08,West,UPI
+ORD1033,07-08-2024,CUST45,Mobile,Electronics,1,71098,18,58300.36,North,UPI
+ORD1034,28-11-2024,CUST293,Laptop,Electronics,5,14215,4,68232,South,Credit Card
+ORD1035,25-07-2024,CUST25,Mobile,Electronics,5,9274,20,37096,South,Cash on Delivery
+ORD1036,08-01-2024,CUST168,Smartwatch,Accessories,4,9488,1,37572.48,South,Debit Card
+ORD1037,04-04-2024,CUST154,Mobile,Electronics,5,49645,20,198580,North,UPI
+ORD1038,02-07-2024,CUST270,Laptop,Electronics,5,51015,19,206610.75,West,Credit Card
+ORD1039,31-10-2024,CUST116,Tablet,Electronics,4,66093,3,256440.84,East,UPI
+ORD1040,14-07-2024,CUST181,Headphones,Accessories,3,8568,16,21591.36,South,Credit Card
+ORD1041,03-09-2024,CUST272,Headphones,Accessories,3,9589,7,26753.31,West,Debit Card
+ORD1042,10-10-2024,CUST143,Headphones,Accessories,3,4914,12,12972.96,East,Debit Card
+ORD1043,23-01-2024,CUST44,Headphones,Accessories,2,2585,12,4549.6,South,Debit Card
+ORD1044,17-05-2024,CUST227,Mobile,Electronics,4,52511,5,199541.8,North,Cash on Delivery
+ORD1045,28-05-2024,CUST161,Mobile,Electronics,1,67366,8,61976.72,North,Credit Card
+ORD1046,13-07-2024,CUST202,Tablet,Electronics,2,32804,19,53142.48,West,Debit Card
+ORD1047,08-05-2024,CUST166,Tablet,Electronics,1,43178,10,38860.2,West,Cash on Delivery
+ORD1048,24-11-2024,CUST291,Laptop,Electronics,2,29670,0,59340,West,UPI
+ORD1049,12-01-2024,CUST199,Tablet,Electronics,5,7687,4,36897.6,West,Cash on Delivery
+ORD1050,07-11-2024,CUST246,Smartwatch,Accessories,2,4183,14,7194.76,South,Credit Card
+ORD1051,23-02-2024,CUST233,Laptop,Electronics,5,6999,20,27996,West,Debit Card
+ORD1052,22-08-2024,CUST7,Headphones,Accessories,2,8020,8,14756.8,South,Cash on Delivery
+ORD1053,19-09-2024,CUST121,Headphones,Accessories,5,9111,20,36444,South,UPI
+ORD1054,27-01-2024,CUST294,Headphones,Accessories,5,5696,16,23923.2,South,Cash on Delivery
+ORD1055,25-12-2024,CUST131,Headphones,Accessories,5,1606,11,7146.7,South,Debit Card
+ORD1056,18-05-2024,CUST53,Tablet,Electronics,2,49807,19,80687.34,East,Credit Card
+ORD1057,17-10-2024,CUST275,Headphones,Accessories,4,8495,9,30921.8,South,UPI
+ORD1058,19-05-2024,CUST106,Laptop,Electronics,2,73013,3,141645.22,South,UPI
+ORD1059,30-04-2024,CUST172,Laptop,Electronics,4,56965,4,218745.6,South,Credit Card
+ORD1060,06-08-2024,CUST238,Laptop,Electronics,3,24700,4,71136,West,UPI
+ORD1061,31-01-2024,CUST292,Headphones,Accessories,3,1426,3,4149.66,East,Debit Card
+ORD1062,14-11-2024,CUST49,Mobile,Electronics,4,55545,13,193296.6,East,Credit Card
+ORD1063,31-08-2024,CUST219,Mobile,Electronics,1,30468,16,25593.12,West,UPI
+ORD1064,27-03-2024,CUST157,Smartwatch,Accessories,1,4402,5,4181.9,West,Credit Card
+ORD1065,13-08-2024,CUST234,Mobile,Electronics,4,22024,2,86334.08,East,Cash on Delivery
+ORD1066,17-02-2024,CUST251,Smartwatch,Accessories,3,5959,12,15731.76,West,Credit Card
+ORD1067,23-05-2024,CUST43,Smartwatch,Accessories,5,1504,10,6768,West,Credit Card
+ORD1068,10-07-2024,CUST259,Mobile,Electronics,4,25743,17,85466.76,West,Credit Card
+ORD1069,18-03-2024,CUST100,Headphones,Accessories,1,9866,14,8484.76,North,Debit Card
+ORD1070,14-09-2024,CUST15,Headphones,Accessories,2,4187,5,7955.3,East,UPI
+ORD1071,18-05-2024,CUST56,Smartwatch,Accessories,5,7563,0,37815,North,Cash on Delivery
+ORD1072,22-11-2024,CUST233,Headphones,Accessories,1,5771,11,5136.19,East,Credit Card
+ORD1073,30-05-2024,CUST31,Laptop,Electronics,2,58468,5,111089.2,West,Debit Card
+ORD1074,02-11-2024,CUST17,Laptop,Electronics,5,46644,20,186576,North,UPI
+ORD1075,02-11-2024,CUST279,Mobile,Electronics,3,71721,18,176433.66,East,Credit Card
+ORD1076,16-07-2024,CUST271,Headphones,Accessories,4,8314,11,29597.84,North,Credit Card
+ORD1077,22-08-2024,CUST34,Headphones,Accessories,3,9621,0,28863,West,UPI
+ORD1078,05-06-2024,CUST70,Tablet,Electronics,3,68647,20,164752.8,East,Debit Card
+ORD1079,17-04-2024,CUST20,Tablet,Electronics,3,50382,6,142077.24,West,Credit Card
+ORD1080,23-11-2024,CUST54,Laptop,Electronics,1,8132,2,7969.36,West,Cash on Delivery
+ORD1081,19-05-2024,CUST1,Mobile,Electronics,1,21328,5,20261.6,South,UPI
+ORD1082,29-10-2024,CUST112,Smartwatch,Accessories,4,1401,15,4763.4,West,Cash on Delivery
+ORD1083,12-09-2024,CUST223,Smartwatch,Accessories,4,3249,15,11046.6,South,UPI
+ORD1084,25-09-2024,CUST198,Mobile,Electronics,1,20440,8,18804.8,West,Credit Card
+ORD1085,22-08-2024,CUST55,Mobile,Electronics,2,64757,14,111382.04,South,Cash on Delivery
+ORD1086,20-03-2024,CUST54,Smartwatch,Accessories,4,2393,11,8519.08,West,Cash on Delivery
+ORD1087,24-02-2024,CUST89,Laptop,Electronics,1,31669,3,30718.93,North,Debit Card
+ORD1088,13-09-2024,CUST223,Laptop,Electronics,5,24898,18,102081.8,East,Credit Card
+ORD1089,05-01-2024,CUST161,Tablet,Electronics,5,15944,0,79720,South,Credit Card
+ORD1090,11-07-2024,CUST194,Smartwatch,Accessories,3,3405,0,10215,West,Debit Card
+ORD1091,05-03-2024,CUST143,Laptop,Electronics,2,31172,0,62344,West,Cash on Delivery
+ORD1092,07-11-2024,CUST146,Laptop,Electronics,3,76594,9,209101.62,East,Debit Card
+ORD1093,14-10-2024,CUST129,Laptop,Electronics,2,66257,14,113962.04,South,Debit Card
+ORD1094,18-09-2024,CUST4,Smartwatch,Accessories,3,1615,1,4796.55,East,Credit Card
+ORD1095,25-01-2024,CUST263,Headphones,Accessories,1,2983,1,2953.17,East,UPI
+ORD1096,25-10-2024,CUST282,Mobile,Electronics,1,5320,11,4734.8,South,UPI
+ORD1097,20-06-2024,CUST6,Laptop,Electronics,5,53747,20,214988,South,UPI
+ORD1098,18-08-2024,CUST35,Smartwatch,Accessories,3,2924,12,7719.36,East,Credit Card
+ORD1099,23-12-2024,CUST171,Smartwatch,Accessories,3,1397,10,3771.9,North,Cash on Delivery
+ORD1100,16-04-2024,CUST174,Tablet,Electronics,1,74141,0,74141,East,Debit Card
+ORD1101,13-11-2024,CUST279,Mobile,Electronics,5,10464,11,46564.8,West,Cash on Delivery
+ORD1102,13-11-2024,CUST233,Tablet,Electronics,2,75802,12,133411.52,East,Debit Card
+ORD1103,25-02-2024,CUST76,Headphones,Accessories,3,6440,9,17581.2,West,UPI
+ORD1104,15-02-2024,CUST130,Laptop,Electronics,3,5298,15,13509.9,East,Debit Card
+ORD1105,09-07-2024,CUST169,Laptop,Electronics,3,57718,0,173154,North,UPI
+ORD1106,04-03-2024,CUST270,Smartwatch,Accessories,2,9527,18,15624.28,West,Credit Card
+ORD1107,22-08-2024,CUST110,Headphones,Accessories,1,9840,10,8856,East,Cash on Delivery
+ORD1108,14-10-2024,CUST246,Headphones,Accessories,5,4113,4,19742.4,West,Cash on Delivery
+ORD1109,06-02-2024,CUST166,Smartwatch,Accessories,1,9149,7,8508.57,South,Debit Card
+ORD1110,10-01-2024,CUST222,Mobile,Electronics,1,8136,4,7810.56,West,Credit Card
+ORD1111,10-07-2024,CUST146,Laptop,Electronics,4,22310,19,72284.4,West,Debit Card
+ORD1112,06-06-2024,CUST167,Headphones,Accessories,1,5687,6,5345.78,West,Credit Card
+ORD1113,09-02-2024,CUST17,Tablet,Electronics,5,26181,8,120432.6,South,Cash on Delivery
+ORD1114,07-01-2024,CUST105,Laptop,Electronics,1,76021,15,64617.85,North,Debit Card
+ORD1115,31-01-2024,CUST139,Laptop,Electronics,3,5936,0,17808,East,Cash on Delivery
+ORD1116,03-04-2024,CUST215,Tablet,Electronics,4,44844,4,172200.96,South,Credit Card
+ORD1117,18-02-2024,CUST230,Smartwatch,Accessories,5,9546,4,45820.8,North,Debit Card
+ORD1118,08-05-2024,CUST46,Smartwatch,Accessories,5,4219,16,17719.8,East,Debit Card
+ORD1119,25-01-2024,CUST190,Laptop,Electronics,5,71386,1,353360.7,West,Credit Card
+ORD1120,30-05-2024,CUST118,Smartwatch,Accessories,4,5347,7,19890.84,North,UPI
+ORD1121,12-04-2024,CUST65,Laptop,Electronics,3,72278,14,186477.24,East,Credit Card
+ORD1122,28-08-2024,CUST73,Laptop,Electronics,4,19815,11,70541.4,South,Debit Card
+ORD1123,28-10-2024,CUST221,Headphones,Accessories,1,4348,14,3739.28,West,Cash on Delivery
+ORD1124,06-06-2024,CUST40,Tablet,Electronics,2,47817,20,76507.2,South,UPI
+ORD1125,04-06-2024,CUST144,Headphones,Accessories,5,5673,17,23542.95,West,Cash on Delivery
+ORD1126,16-05-2024,CUST86,Smartwatch,Accessories,4,8414,16,28271.04,South,Cash on Delivery
+ORD1127,29-05-2024,CUST91,Tablet,Electronics,5,19572,17,81223.8,West,UPI
+ORD1128,06-06-2024,CUST237,Headphones,Accessories,3,7373,8,20349.48,East,UPI
+ORD1129,09-01-2024,CUST94,Tablet,Electronics,4,59182,15,201218.8,South,Credit Card
+ORD1130,25-03-2024,CUST177,Headphones,Accessories,5,5398,19,21861.9,East,Cash on Delivery
+ORD1131,27-03-2024,CUST205,Laptop,Electronics,1,58879,3,57112.63,South,Debit Card
+ORD1132,07-06-2024,CUST49,Smartwatch,Accessories,4,7281,6,27376.56,South,Credit Card
+ORD1133,27-02-2024,CUST281,Tablet,Electronics,4,75162,19,243524.88,West,Credit Card
+ORD1134,14-05-2024,CUST236,Laptop,Electronics,3,11186,1,33222.42,West,Cash on Delivery
+ORD1135,23-04-2024,CUST212,Mobile,Electronics,5,67541,14,290426.3,South,Cash on Delivery
+ORD1136,26-04-2024,CUST284,Mobile,Electronics,5,42553,4,204254.4,East,Cash on Delivery
+ORD1137,11-12-2024,CUST219,Smartwatch,Accessories,3,3317,5,9453.45,South,UPI
+ORD1138,15-04-2024,CUST269,Mobile,Electronics,2,60354,6,113465.52,West,UPI
+ORD1139,04-11-2024,CUST186,Mobile,Electronics,1,51933,5,49336.35,South,Cash on Delivery
+ORD1140,27-08-2024,CUST27,Headphones,Accessories,5,5940,2,29106,East,UPI
+ORD1141,14-08-2024,CUST46,Tablet,Electronics,5,23056,4,110668.8,South,Debit Card
+ORD1142,17-05-2024,CUST137,Tablet,Electronics,2,47931,18,78606.84,West,Credit Card
+ORD1143,19-06-2024,CUST29,Smartwatch,Accessories,4,9823,12,34576.96,West,Cash on Delivery
+ORD1144,11-03-2024,CUST233,Laptop,Electronics,5,60372,15,256581,South,Credit Card
+ORD1145,07-09-2024,CUST292,Smartwatch,Accessories,2,7095,13,12345.3,North,Debit Card
+ORD1146,25-01-2024,CUST32,Laptop,Electronics,4,33219,3,128889.72,East,UPI
+ORD1147,20-04-2024,CUST181,Mobile,Electronics,5,6116,0,30580,East,Debit Card
+ORD1148,25-09-2024,CUST239,Tablet,Electronics,1,73759,20,59007.2,South,Debit Card
+ORD1149,22-09-2024,CUST8,Headphones,Accessories,1,7085,13,6163.95,South,Cash on Delivery
+ORD1150,31-05-2024,CUST196,Mobile,Electronics,4,70226,16,235959.36,West,Cash on Delivery
+ORD1151,18-09-2024,CUST206,Tablet,Electronics,1,42088,4,40404.48,North,Cash on Delivery
+ORD1152,15-06-2024,CUST283,Smartwatch,Accessories,5,2775,12,12210,West,Debit Card
+ORD1153,07-01-2024,CUST211,Mobile,Electronics,4,77184,11,274775.04,South,UPI
+ORD1154,19-12-2024,CUST87,Laptop,Electronics,5,69960,15,297330,East,UPI
+ORD1155,04-09-2024,CUST124,Laptop,Electronics,2,34578,8,63623.52,South,Debit Card
+ORD1156,08-07-2024,CUST149,Laptop,Electronics,2,44535,9,81053.7,North,UPI
+ORD1157,24-01-2024,CUST193,Tablet,Electronics,3,50286,0,150858,West,Cash on Delivery
+ORD1158,16-03-2024,CUST84,Mobile,Electronics,1,53308,10,47977.2,East,Cash on Delivery
+ORD1159,26-02-2024,CUST229,Mobile,Electronics,4,38815,16,130418.4,West,Credit Card
+ORD1160,19-12-2024,CUST194,Smartwatch,Accessories,2,6612,10,11901.6,South,Credit Card
+ORD1161,11-08-2024,CUST273,Smartwatch,Accessories,3,1909,11,5097.03,West,Debit Card
+ORD1162,29-04-2024,CUST156,Smartwatch,Accessories,3,8088,8,22322.88,North,Cash on Delivery
+ORD1163,29-12-2024,CUST102,Laptop,Electronics,3,28058,14,72389.64,West,UPI
+ORD1164,17-05-2024,CUST231,Tablet,Electronics,4,19496,13,67846.08,North,Debit Card
+ORD1165,02-01-2024,CUST119,Laptop,Electronics,5,9996,6,46981.2,West,Credit Card
+ORD1166,22-02-2024,CUST274,Laptop,Electronics,1,8951,8,8234.92,South,Credit Card
+ORD1167,31-08-2024,CUST89,Laptop,Electronics,5,5687,6,26728.9,East,Debit Card
+ORD1168,13-06-2024,CUST81,Mobile,Electronics,1,44039,12,38754.32,East,UPI
+ORD1169,30-10-2024,CUST20,Mobile,Electronics,5,31023,19,125643.15,North,UPI
+ORD1170,10-10-2024,CUST117,Tablet,Electronics,4,48495,5,184281,East,Debit Card
+ORD1171,01-06-2024,CUST283,Headphones,Accessories,2,2802,5,5323.8,North,Cash on Delivery
+ORD1172,12-10-2024,CUST142,Smartwatch,Accessories,3,9724,7,27129.96,West,UPI
+ORD1173,07-05-2024,CUST298,Smartwatch,Accessories,1,5722,15,4863.7,West,Debit Card
+ORD1174,03-09-2024,CUST151,Mobile,Electronics,2,67282,20,107651.2,East,Debit Card
+ORD1175,03-04-2024,CUST271,Mobile,Electronics,4,76638,16,257503.68,East,UPI
+ORD1176,29-01-2024,CUST238,Tablet,Electronics,2,41120,4,78950.4,North,Cash on Delivery
+ORD1177,24-03-2024,CUST211,Laptop,Electronics,3,31848,11,85034.16,East,UPI
+ORD1178,13-04-2024,CUST5,Mobile,Electronics,2,25582,11,45535.96,West,UPI
+ORD1179,07-12-2024,CUST31,Laptop,Electronics,3,53919,20,129405.6,North,Debit Card
+ORD1180,29-09-2024,CUST11,Headphones,Accessories,1,2007,4,1926.72,West,Debit Card
+ORD1181,01-03-2024,CUST287,Smartwatch,Accessories,4,1539,0,6156,South,Cash on Delivery
+ORD1182,21-10-2024,CUST168,Smartwatch,Accessories,5,5537,19,22424.85,South,Debit Card
+ORD1183,08-05-2024,CUST293,Tablet,Electronics,1,38352,18,31448.64,North,UPI
+ORD1184,12-12-2024,CUST162,Tablet,Electronics,2,35906,16,60322.08,South,Credit Card
+ORD1185,07-09-2024,CUST220,Smartwatch,Accessories,5,7897,4,37905.6,South,Debit Card
+ORD1186,13-05-2024,CUST88,Mobile,Electronics,3,26936,16,67878.72,North,Debit Card
+ORD1187,29-02-2024,CUST26,Laptop,Electronics,2,67633,10,121739.4,East,Cash on Delivery
+ORD1188,02-11-2024,CUST160,Laptop,Electronics,5,21496,10,96732,West,Credit Card
+ORD1189,20-08-2024,CUST267,Smartwatch,Accessories,4,9928,14,34152.32,North,Credit Card
+ORD1190,18-05-2024,CUST128,Tablet,Electronics,1,35263,4,33852.48,West,Credit Card
+ORD1191,09-07-2024,CUST272,Smartwatch,Accessories,2,1782,13,3100.68,West,Debit Card
+ORD1192,30-08-2024,CUST246,Headphones,Accessories,3,4985,3,14506.35,West,Debit Card
+ORD1193,04-09-2024,CUST243,Headphones,Accessories,3,9972,4,28719.36,South,Debit Card
+ORD1194,22-02-2024,CUST252,Mobile,Electronics,3,35894,9,97990.62,South,Cash on Delivery
+ORD1195,07-01-2024,CUST167,Tablet,Electronics,4,27556,9,100303.84,West,UPI
+ORD1196,30-05-2024,CUST78,Headphones,Accessories,2,2570,20,4112,South,Cash on Delivery
+ORD1197,22-04-2024,CUST59,Laptop,Electronics,5,65884,16,276712.8,North,UPI
+ORD1198,19-11-2024,CUST119,Headphones,Accessories,4,4186,8,15404.48,East,Cash on Delivery
+ORD1199,27-02-2024,CUST121,Headphones,Accessories,1,7584,15,6446.4,West,Credit Card
+ORD1200,26-10-2024,CUST199,Headphones,Accessories,3,7744,20,18585.6,South,UPI
+ORD1201,13-01-2024,CUST192,Laptop,Electronics,2,46695,1,92456.1,West,UPI
+ORD1202,20-02-2024,CUST265,Mobile,Electronics,1,62748,13,54590.76,South,Credit Card
+ORD1203,18-02-2024,CUST218,Laptop,Electronics,1,45697,20,36557.6,South,UPI
+ORD1204,30-09-2024,CUST10,Headphones,Accessories,4,4644,0,18576,South,UPI
+ORD1205,29-12-2024,CUST166,Headphones,Accessories,4,3128,10,11260.8,North,UPI
+ORD1206,24-11-2024,CUST245,Headphones,Accessories,1,7833,13,6814.71,East,UPI
+ORD1207,17-02-2024,CUST137,Headphones,Accessories,3,4294,15,10949.7,West,Cash on Delivery
+ORD1208,28-02-2024,CUST150,Headphones,Accessories,2,9227,19,14947.74,West,Debit Card
+ORD1209,11-12-2024,CUST77,Headphones,Accessories,1,8344,2,8177.12,North,Cash on Delivery
+ORD1210,09-06-2024,CUST263,Smartwatch,Accessories,4,5917,7,22011.24,North,Debit Card
+ORD1211,21-10-2024,CUST114,Headphones,Accessories,1,7210,16,6056.4,North,UPI
+ORD1212,13-11-2024,CUST203,Mobile,Electronics,3,28360,7,79124.4,South,Cash on Delivery
+ORD1213,03-06-2024,CUST28,Tablet,Electronics,2,8785,14,15110.2,South,Cash on Delivery
+ORD1214,19-03-2024,CUST146,Smartwatch,Accessories,3,8278,3,24088.98,East,Debit Card
+ORD1215,24-05-2024,CUST166,Tablet,Electronics,4,62617,20,200374.4,West,UPI
+ORD1216,09-07-2024,CUST76,Smartwatch,Accessories,2,8842,16,14854.56,West,UPI
+ORD1217,29-01-2024,CUST7,Tablet,Electronics,1,67315,8,61929.8,West,Debit Card
+ORD1218,08-11-2024,CUST135,Headphones,Accessories,1,9132,5,8675.4,South,Credit Card
+ORD1219,15-11-2024,CUST231,Mobile,Electronics,4,46350,13,161298,South,Debit Card
+ORD1220,29-04-2024,CUST217,Mobile,Electronics,4,70696,8,260161.28,East,Credit Card
+ORD1221,03-05-2024,CUST9,Mobile,Electronics,5,10451,9,47552.05,North,Credit Card
+ORD1222,18-05-2024,CUST263,Laptop,Electronics,4,49883,8,183569.44,South,Credit Card
+ORD1223,24-07-2024,CUST99,Laptop,Electronics,5,27302,11,121493.9,West,Cash on Delivery
+ORD1224,05-12-2024,CUST199,Tablet,Electronics,2,73732,13,128293.68,North,Cash on Delivery
+ORD1225,22-01-2024,CUST123,Headphones,Accessories,1,2057,20,1645.6,East,UPI
+ORD1226,27-05-2024,CUST19,Mobile,Electronics,1,71659,11,63776.51,South,Cash on Delivery
+ORD1227,30-01-2024,CUST9,Smartwatch,Accessories,3,9398,13,24528.78,South,UPI
+ORD1228,25-01-2024,CUST18,Tablet,Electronics,1,76100,3,73817,South,UPI
+ORD1229,10-12-2024,CUST99,Smartwatch,Accessories,2,2965,1,5870.7,North,Cash on Delivery
+ORD1230,23-04-2024,CUST209,Mobile,Electronics,1,39005,17,32374.15,South,UPI
+ORD1231,25-02-2024,CUST127,Laptop,Electronics,1,33952,11,30217.28,South,Debit Card
+ORD1232,03-09-2024,CUST7,Tablet,Electronics,4,58227,13,202629.96,East,Cash on Delivery
+ORD1233,25-04-2024,CUST70,Headphones,Accessories,1,8676,14,7461.36,East,Cash on Delivery
+ORD1234,11-12-2024,CUST129,Smartwatch,Accessories,4,8780,7,32661.6,North,Cash on Delivery
+ORD1235,12-10-2024,CUST44,Mobile,Electronics,2,31399,5,59658.1,East,Credit Card
+ORD1236,07-11-2024,CUST186,Headphones,Accessories,2,3292,5,6254.8,East,Debit Card
+ORD1237,27-04-2024,CUST50,Laptop,Electronics,1,59385,9,54040.35,North,Credit Card
+ORD1238,16-08-2024,CUST271,Laptop,Electronics,2,39331,5,74728.9,North,Debit Card
+ORD1239,07-10-2024,CUST47,Smartwatch,Accessories,2,5194,2,10180.24,West,UPI
+ORD1240,14-07-2024,CUST122,Laptop,Electronics,5,48060,0,240300,East,Cash on Delivery
+ORD1241,07-07-2024,CUST282,Laptop,Electronics,5,58331,16,244990.2,South,Cash on Delivery
+ORD1242,14-11-2024,CUST218,Mobile,Electronics,5,38122,8,175361.2,South,Credit Card
+ORD1243,25-11-2024,CUST68,Laptop,Electronics,5,79115,1,391619.25,South,Cash on Delivery
+ORD1244,14-08-2024,CUST168,Laptop,Electronics,4,78455,7,291852.6,East,Credit Card
+ORD1245,11-02-2024,CUST165,Smartwatch,Accessories,5,5550,5,26362.5,West,Cash on Delivery
+ORD1246,14-11-2024,CUST41,Laptop,Electronics,1,12418,4,11921.28,West,Cash on Delivery
+ORD1247,30-04-2024,CUST184,Smartwatch,Accessories,1,8502,12,7481.76,East,Cash on Delivery
+ORD1248,13-06-2024,CUST282,Smartwatch,Accessories,1,4510,16,3788.4,North,Credit Card
+ORD1249,18-05-2024,CUST168,Tablet,Electronics,5,7259,19,29398.95,West,Debit Card
+ORD1250,10-12-2024,CUST203,Tablet,Electronics,1,38631,6,36313.14,East,Credit Card
+ORD1251,23-02-2024,CUST84,Headphones,Accessories,2,3710,2,7271.6,East,Credit Card
+ORD1252,03-05-2024,CUST216,Tablet,Electronics,5,48410,6,227527,West,Cash on Delivery
+ORD1253,18-09-2024,CUST25,Mobile,Electronics,5,60414,10,271863,East,Cash on Delivery
+ORD1254,21-12-2024,CUST46,Smartwatch,Accessories,3,6759,18,16627.14,South,Credit Card
+ORD1255,09-02-2024,CUST10,Laptop,Electronics,4,34354,14,118177.76,East,Debit Card
+ORD1256,19-05-2024,CUST186,Laptop,Electronics,1,72921,12,64170.48,East,Cash on Delivery
+ORD1257,31-03-2024,CUST93,Tablet,Electronics,2,78995,1,156410.1,East,Cash on Delivery
+ORD1258,23-10-2024,CUST8,Tablet,Electronics,4,36214,17,120230.48,North,Debit Card
+ORD1259,12-10-2024,CUST111,Mobile,Electronics,4,50094,4,192360.96,South,Credit Card
+ORD1260,26-02-2024,CUST37,Mobile,Electronics,4,69025,8,254012,East,Debit Card
+ORD1261,22-04-2024,CUST159,Laptop,Electronics,2,74158,8,136450.72,West,Cash on Delivery
+ORD1262,23-02-2024,CUST81,Headphones,Accessories,2,4995,9,9090.9,North,Debit Card
+ORD1263,24-07-2024,CUST89,Headphones,Accessories,5,5043,17,20928.45,South,UPI
+ORD1264,11-02-2024,CUST67,Mobile,Electronics,1,15819,8,14553.48,East,Debit Card
+ORD1265,25-03-2024,CUST21,Headphones,Accessories,5,7460,1,36927,North,Credit Card
+ORD1266,01-04-2024,CUST197,Mobile,Electronics,5,78819,2,386213.1,East,Debit Card
+ORD1267,06-09-2024,CUST16,Headphones,Accessories,1,6814,20,5451.2,South,Credit Card
+ORD1268,05-09-2024,CUST127,Smartwatch,Accessories,3,6252,11,16692.84,East,UPI
+ORD1269,12-01-2024,CUST43,Laptop,Electronics,1,61733,3,59881.01,East,Credit Card
+ORD1270,04-08-2024,CUST261,Smartwatch,Accessories,1,8509,10,7658.1,West,Debit Card
+ORD1271,29-06-2024,CUST22,Tablet,Electronics,5,36433,5,173056.75,East,UPI
+ORD1272,26-11-2024,CUST69,Mobile,Electronics,1,51518,5,48942.1,West,Debit Card
+ORD1273,23-08-2024,CUST53,Headphones,Accessories,2,9445,8,17378.8,West,Credit Card
+ORD1274,28-08-2024,CUST270,Mobile,Electronics,2,62419,12,109857.44,North,Cash on Delivery
+ORD1275,12-11-2024,CUST155,Smartwatch,Accessories,5,2373,11,10559.85,East,Credit Card
+ORD1276,28-03-2024,CUST284,Smartwatch,Accessories,4,8415,8,30967.2,North,Debit Card
+ORD1277,31-01-2024,CUST244,Smartwatch,Accessories,4,8432,1,33390.72,East,Cash on Delivery
+ORD1278,13-06-2024,CUST276,Smartwatch,Accessories,4,9778,20,31289.6,East,Cash on Delivery
+ORD1279,23-12-2024,CUST69,Mobile,Electronics,5,76610,0,383050,South,UPI
+ORD1280,28-07-2024,CUST27,Smartwatch,Accessories,3,3229,15,8233.95,South,UPI
+ORD1281,17-07-2024,CUST124,Laptop,Electronics,5,76628,8,352488.8,West,Cash on Delivery
+ORD1282,29-10-2024,CUST280,Smartwatch,Accessories,4,5112,0,20448,North,Debit Card
+ORD1283,22-12-2024,CUST19,Mobile,Electronics,4,63605,14,218801.2,South,Debit Card
+ORD1284,02-02-2024,CUST132,Smartwatch,Accessories,1,9985,18,8187.7,East,Debit Card
+ORD1285,16-10-2024,CUST101,Smartwatch,Accessories,3,8256,15,21052.8,North,UPI
+ORD1286,19-04-2024,CUST283,Smartwatch,Accessories,5,1929,1,9548.55,East,Credit Card
+ORD1287,07-07-2024,CUST23,Headphones,Accessories,5,1225,19,4961.25,North,Debit Card
+ORD1288,12-08-2024,CUST272,Headphones,Accessories,1,3701,19,2997.81,North,UPI
+ORD1289,02-05-2024,CUST260,Headphones,Accessories,2,6090,5,11571,North,Debit Card
+ORD1290,13-06-2024,CUST168,Mobile,Electronics,3,49289,17,122729.61,North,Cash on Delivery
+ORD1291,08-02-2024,CUST292,Smartwatch,Accessories,2,7490,0,14980,South,Credit Card
+ORD1292,31-07-2024,CUST213,Tablet,Electronics,2,33429,7,62177.94,East,Cash on Delivery
+ORD1293,11-10-2024,CUST161,Tablet,Electronics,5,79327,1,392668.65,East,Cash on Delivery
+ORD1294,29-12-2024,CUST55,Laptop,Electronics,1,30342,19,24577.02,North,UPI
+ORD1295,19-11-2024,CUST93,Laptop,Electronics,2,52971,10,95347.8,North,Debit Card
+ORD1296,02-12-2024,CUST178,Smartwatch,Accessories,5,9162,16,38480.4,South,Cash on Delivery
+ORD1297,10-06-2024,CUST175,Headphones,Accessories,4,2411,9,8776.04,West,UPI
+ORD1298,25-11-2024,CUST77,Tablet,Electronics,3,69963,6,197295.66,North,UPI
+ORD1299,12-02-2024,CUST47,Mobile,Electronics,1,18722,10,16849.8,South,Cash on Delivery
+ORD1300,29-09-2024,CUST278,Laptop,Electronics,2,19700,13,34278,West,Debit Card
+ORD1301,24-03-2024,CUST20,Smartwatch,Accessories,5,2493,9,11343.15,North,Credit Card
+ORD1302,04-12-2024,CUST28,Laptop,Electronics,5,24343,5,115629.25,East,Cash on Delivery
+ORD1303,17-04-2024,CUST61,Tablet,Electronics,2,7237,0,14474,East,Cash on Delivery
+ORD1304,28-08-2024,CUST80,Tablet,Electronics,1,68370,4,65635.2,West,Credit Card
+ORD1305,20-01-2024,CUST285,Mobile,Electronics,3,17074,15,43538.7,South,Cash on Delivery
+ORD1306,29-02-2024,CUST69,Mobile,Electronics,3,43151,0,129453,North,Credit Card
+ORD1307,08-01-2024,CUST260,Tablet,Electronics,1,47523,15,40394.55,North,Debit Card
+ORD1308,22-09-2024,CUST233,Headphones,Accessories,4,2298,8,8456.64,South,Debit Card
+ORD1309,01-12-2024,CUST173,Laptop,Electronics,3,31008,2,91163.52,North,Credit Card
+ORD1310,12-06-2024,CUST141,Laptop,Electronics,3,25377,12,66995.28,North,Debit Card
+ORD1311,27-04-2024,CUST47,Laptop,Electronics,1,9294,18,7621.08,South,Credit Card
+ORD1312,30-01-2024,CUST12,Tablet,Electronics,1,28895,5,27450.25,East,Cash on Delivery
+ORD1313,22-04-2024,CUST236,Laptop,Electronics,3,54086,4,155767.68,East,Credit Card
+ORD1314,26-12-2024,CUST274,Smartwatch,Accessories,3,1990,15,5074.5,West,UPI
+ORD1315,28-03-2024,CUST102,Laptop,Electronics,5,36777,7,171013.05,East,Cash on Delivery
+ORD1316,07-09-2024,CUST154,Mobile,Electronics,1,36918,9,33595.38,North,Credit Card
+ORD1317,01-08-2024,CUST9,Mobile,Electronics,4,35278,5,134056.4,East,UPI
+ORD1318,21-06-2024,CUST142,Smartwatch,Accessories,2,4042,18,6628.88,North,UPI
+ORD1319,17-01-2024,CUST228,Headphones,Accessories,1,2381,15,2023.85,West,UPI
+ORD1320,24-03-2024,CUST273,Tablet,Electronics,1,12217,18,10017.94,East,Debit Card
+ORD1321,01-05-2024,CUST247,Tablet,Electronics,1,20413,6,19188.22,East,Debit Card
+ORD1322,11-03-2024,CUST184,Tablet,Electronics,5,37657,12,165690.8,West,UPI
+ORD1323,31-07-2024,CUST99,Headphones,Accessories,3,9715,7,27104.85,South,Credit Card
+ORD1324,31-07-2024,CUST238,Mobile,Electronics,4,8576,4,32931.84,North,Debit Card
+ORD1325,02-08-2024,CUST19,Smartwatch,Accessories,5,4846,2,23745.4,North,Cash on Delivery
+ORD1326,28-07-2024,CUST113,Mobile,Electronics,4,10188,9,37084.32,South,Credit Card
+ORD1327,24-12-2024,CUST29,Laptop,Electronics,1,73171,15,62195.35,East,UPI
+ORD1328,04-08-2024,CUST153,Headphones,Accessories,5,4956,14,21310.8,South,Credit Card
+ORD1329,08-08-2024,CUST54,Laptop,Electronics,1,18573,16,15601.32,East,Debit Card
+ORD1330,06-10-2024,CUST211,Tablet,Electronics,5,30118,16,126495.6,South,Cash on Delivery
+ORD1331,25-05-2024,CUST48,Mobile,Electronics,4,64405,11,229281.8,North,Cash on Delivery
+ORD1332,15-03-2024,CUST187,Smartwatch,Accessories,4,3920,5,14896,East,Debit Card
+ORD1333,27-04-2024,CUST3,Laptop,Electronics,2,40814,19,66118.68,East,Cash on Delivery
+ORD1334,24-10-2024,CUST6,Smartwatch,Accessories,1,7803,8,7178.76,South,Cash on Delivery
+ORD1335,18-08-2024,CUST201,Smartwatch,Accessories,4,7494,13,26079.12,North,Debit Card
+ORD1336,09-02-2024,CUST169,Laptop,Electronics,1,33302,18,27307.64,South,UPI
+ORD1337,26-05-2024,CUST289,Smartwatch,Accessories,3,9875,19,23996.25,North,UPI
+ORD1338,21-06-2024,CUST21,Smartwatch,Accessories,2,6034,9,10981.88,North,Debit Card
+ORD1339,03-11-2024,CUST78,Mobile,Electronics,4,7343,6,27609.68,East,UPI
+ORD1340,29-02-2024,CUST133,Laptop,Electronics,4,43343,13,150833.64,East,Credit Card
+ORD1341,24-09-2024,CUST138,Laptop,Electronics,5,77854,13,338664.9,West,Cash on Delivery
+ORD1342,27-09-2024,CUST202,Headphones,Accessories,3,3320,8,9163.2,North,UPI
+ORD1343,04-02-2024,CUST101,Tablet,Electronics,5,58603,0,293015,North,Cash on Delivery
+ORD1344,14-06-2024,CUST297,Laptop,Electronics,4,21041,5,79955.8,East,Cash on Delivery
+ORD1345,02-05-2024,CUST47,Smartwatch,Accessories,1,7032,20,5625.6,North,Debit Card
+ORD1346,06-04-2024,CUST39,Mobile,Electronics,1,57023,5,54171.85,West,UPI
+ORD1347,17-11-2024,CUST222,Mobile,Electronics,4,49094,1,194412.24,North,Debit Card
+ORD1348,12-09-2024,CUST141,Headphones,Accessories,4,4003,8,14731.04,North,Cash on Delivery
+ORD1349,19-03-2024,CUST278,Smartwatch,Accessories,5,5732,1,28373.4,South,Debit Card
+ORD1350,06-06-2024,CUST238,Tablet,Electronics,5,28095,16,117999,North,UPI
+ORD1351,05-08-2024,CUST262,Laptop,Electronics,1,38991,13,33922.17,West,Debit Card
+ORD1352,22-12-2024,CUST36,Tablet,Electronics,3,72371,17,180203.79,West,UPI
+ORD1353,21-11-2024,CUST49,Headphones,Accessories,4,8141,17,27028.12,North,Credit Card
+ORD1354,04-02-2024,CUST159,Headphones,Accessories,4,5323,12,18736.96,South,Cash on Delivery
+ORD1355,20-04-2024,CUST82,Smartwatch,Accessories,3,3153,7,8796.87,North,UPI
+ORD1356,25-02-2024,CUST159,Headphones,Accessories,4,9887,9,35988.68,West,UPI
+ORD1357,06-02-2024,CUST39,Mobile,Electronics,5,54586,7,253824.9,East,Debit Card
+ORD1358,23-08-2024,CUST254,Tablet,Electronics,3,25896,1,76911.12,North,Credit Card
+ORD1359,28-09-2024,CUST44,Mobile,Electronics,2,21800,17,36188,South,Credit Card
+ORD1360,04-05-2024,CUST271,Headphones,Accessories,5,9555,16,40131,East,Cash on Delivery
+ORD1361,06-08-2024,CUST197,Headphones,Accessories,3,8499,16,21417.48,North,UPI
+ORD1362,15-01-2024,CUST203,Mobile,Electronics,2,8975,0,17950,East,UPI
+ORD1363,08-10-2024,CUST190,Smartwatch,Accessories,4,3799,2,14892.08,North,UPI
+ORD1364,05-01-2024,CUST199,Smartwatch,Accessories,5,5078,8,23358.8,North,Credit Card
+ORD1365,01-01-2024,CUST211,Tablet,Electronics,5,21023,14,90398.9,West,UPI
+ORD1366,14-11-2024,CUST63,Headphones,Accessories,3,2574,19,6254.82,North,Credit Card
+ORD1367,15-03-2024,CUST284,Mobile,Electronics,4,24783,9,90210.12,East,Cash on Delivery
+ORD1368,11-10-2024,CUST204,Smartwatch,Accessories,4,3015,17,10009.8,East,UPI
+ORD1369,15-02-2024,CUST45,Headphones,Accessories,3,4946,7,13799.34,South,UPI
+ORD1370,10-07-2024,CUST176,Smartwatch,Accessories,3,8131,6,22929.42,East,Debit Card
+ORD1371,22-02-2024,CUST13,Laptop,Electronics,1,76709,3,74407.73,East,Credit Card
+ORD1372,14-03-2024,CUST46,Headphones,Accessories,3,4770,3,13880.7,East,Cash on Delivery
+ORD1373,21-04-2024,CUST59,Tablet,Electronics,5,42223,20,168892,East,Cash on Delivery
+ORD1374,08-02-2024,CUST108,Mobile,Electronics,2,74289,1,147092.22,East,Cash on Delivery
+ORD1375,06-11-2024,CUST57,Mobile,Electronics,4,49133,16,165086.88,West,Cash on Delivery
+ORD1376,28-04-2024,CUST52,Mobile,Electronics,3,5747,2,16896.18,North,Debit Card
+ORD1377,05-11-2024,CUST258,Tablet,Electronics,2,36962,5,70227.8,East,Cash on Delivery
+ORD1378,24-11-2024,CUST138,Headphones,Accessories,2,9405,9,17117.1,North,UPI
+ORD1379,31-07-2024,CUST8,Headphones,Accessories,2,7492,4,14384.64,South,Cash on Delivery
+ORD1380,09-10-2024,CUST164,Mobile,Electronics,1,7838,1,7759.62,West,Cash on Delivery
+ORD1381,16-08-2024,CUST243,Tablet,Electronics,4,58733,13,204390.84,East,UPI
+ORD1382,27-12-2024,CUST235,Headphones,Accessories,5,9128,5,43358,East,Debit Card
+ORD1383,10-08-2024,CUST71,Smartwatch,Accessories,1,6042,19,4894.02,North,Debit Card
+ORD1384,09-11-2024,CUST277,Laptop,Electronics,5,7332,5,34827,North,UPI
+ORD1385,05-01-2024,CUST80,Tablet,Electronics,4,35831,5,136157.8,South,Debit Card
+ORD1386,16-05-2024,CUST26,Tablet,Electronics,4,40034,4,153730.56,West,Cash on Delivery
+ORD1387,14-01-2024,CUST76,Tablet,Electronics,5,19745,19,79967.25,West,Cash on Delivery
+ORD1388,08-04-2024,CUST167,Headphones,Accessories,5,3688,9,16780.4,West,Cash on Delivery
+ORD1389,30-09-2024,CUST260,Tablet,Electronics,1,42158,4,40471.68,West,Debit Card
+ORD1390,17-09-2024,CUST6,Mobile,Electronics,5,23837,8,109650.2,West,UPI
+ORD1391,05-10-2024,CUST43,Headphones,Accessories,1,2956,17,2453.48,South,Debit Card
+ORD1392,03-10-2024,CUST207,Tablet,Electronics,1,62457,0,62457,North,Credit Card
+ORD1393,18-12-2024,CUST59,Tablet,Electronics,1,9413,12,8283.44,East,UPI
+ORD1394,30-12-2024,CUST246,Smartwatch,Accessories,1,2912,0,2912,West,Cash on Delivery
+ORD1395,17-04-2024,CUST77,Smartwatch,Accessories,5,9640,20,38560,West,Debit Card
+ORD1396,17-09-2024,CUST101,Smartwatch,Accessories,4,1954,2,7659.68,East,Credit Card
+ORD1397,19-09-2024,CUST234,Mobile,Electronics,2,18768,12,33031.68,South,Debit Card
+ORD1398,20-03-2024,CUST184,Tablet,Electronics,4,57822,1,228975.12,South,Credit Card
+ORD1399,22-09-2024,CUST201,Headphones,Accessories,1,9022,11,8029.58,East,Cash on Delivery
+ORD1400,16-06-2024,CUST218,Mobile,Electronics,3,71705,17,178545.45,East,Cash on Delivery
+ORD1401,24-10-2024,CUST190,Mobile,Electronics,1,26867,14,23105.62,North,Cash on Delivery
+ORD1402,02-01-2024,CUST52,Laptop,Electronics,4,36091,14,124153.04,North,UPI
+ORD1403,19-08-2024,CUST230,Headphones,Accessories,1,2630,18,2156.6,South,Credit Card
+ORD1404,28-06-2024,CUST162,Laptop,Electronics,3,5473,1,16254.81,West,Cash on Delivery
+ORD1405,29-02-2024,CUST88,Headphones,Accessories,2,4865,12,8562.4,North,Cash on Delivery
+ORD1406,01-11-2024,CUST96,Mobile,Electronics,1,56438,12,49665.44,North,UPI
+ORD1407,31-05-2024,CUST253,Tablet,Electronics,4,40674,11,144799.44,South,Credit Card
+ORD1408,31-01-2024,CUST289,Tablet,Electronics,3,64190,7,179090.1,North,UPI
+ORD1409,24-03-2024,CUST161,Smartwatch,Accessories,3,8951,4,25778.88,West,UPI
+ORD1410,15-05-2024,CUST295,Headphones,Accessories,2,4980,6,9362.4,West,Debit Card
+ORD1411,11-11-2024,CUST14,Headphones,Accessories,1,8330,13,7247.1,South,Cash on Delivery
+ORD1412,24-08-2024,CUST224,Headphones,Accessories,3,5434,9,14834.82,South,Debit Card
+ORD1413,24-03-2024,CUST179,Mobile,Electronics,3,15167,9,41405.91,North,UPI
+ORD1414,09-10-2024,CUST132,Headphones,Accessories,2,9175,1,18166.5,West,UPI
+ORD1415,29-10-2024,CUST19,Mobile,Electronics,3,50816,6,143301.12,North,UPI
+ORD1416,10-11-2024,CUST189,Laptop,Electronics,1,16028,3,15547.16,South,Cash on Delivery
+ORD1417,21-07-2024,CUST185,Smartwatch,Accessories,3,2503,4,7208.64,East,Debit Card
+ORD1418,02-04-2024,CUST115,Laptop,Electronics,5,27634,13,120207.9,West,UPI
+ORD1419,31-07-2024,CUST222,Tablet,Electronics,2,71999,15,122398.3,East,Cash on Delivery
+ORD1420,02-09-2024,CUST165,Laptop,Electronics,1,27515,10,24763.5,East,UPI
+ORD1421,17-08-2024,CUST62,Laptop,Electronics,1,9685,0,9685,North,Debit Card
+ORD1422,06-05-2024,CUST119,Mobile,Electronics,3,66230,15,168886.5,West,Credit Card
+ORD1423,02-06-2024,CUST194,Mobile,Electronics,2,58206,14,100114.32,South,Cash on Delivery
+ORD1424,17-09-2024,CUST293,Headphones,Accessories,3,2213,17,5510.37,East,Debit Card
+ORD1425,10-01-2024,CUST53,Mobile,Electronics,1,7325,3,7105.25,South,Debit Card
+ORD1426,01-06-2024,CUST286,Headphones,Accessories,3,7279,3,21181.89,North,Debit Card
+ORD1427,03-04-2024,CUST65,Smartwatch,Accessories,4,5415,20,17328,East,Cash on Delivery
+ORD1428,03-08-2024,CUST88,Smartwatch,Accessories,3,4553,20,10927.2,North,Cash on Delivery
+ORD1429,14-08-2024,CUST100,Laptop,Electronics,3,57545,14,148466.1,East,Debit Card
+ORD1430,12-04-2024,CUST196,Laptop,Electronics,4,60340,7,224464.8,South,Cash on Delivery
+ORD1431,16-06-2024,CUST196,Smartwatch,Accessories,2,7346,1,14545.08,East,Debit Card
+ORD1432,09-12-2024,CUST300,Tablet,Electronics,2,49284,9,89696.88,East,Cash on Delivery
+ORD1433,12-02-2024,CUST123,Mobile,Electronics,4,54526,11,194112.56,East,Credit Card
+ORD1434,30-12-2024,CUST146,Headphones,Accessories,5,1226,19,4965.3,North,UPI
+ORD1435,31-05-2024,CUST171,Tablet,Electronics,2,49293,19,79854.66,North,Cash on Delivery
+ORD1436,07-07-2024,CUST99,Headphones,Accessories,3,1646,7,4592.34,West,Debit Card
+ORD1437,11-12-2024,CUST61,Smartwatch,Accessories,5,5355,11,23829.75,West,Cash on Delivery
+ORD1438,30-03-2024,CUST117,Smartwatch,Accessories,3,5973,16,15051.96,East,Credit Card
+ORD1439,07-04-2024,CUST63,Tablet,Electronics,5,28022,0,140110,North,Cash on Delivery
+ORD1440,08-06-2024,CUST280,Headphones,Accessories,1,4492,15,3818.2,North,Cash on Delivery
+ORD1441,17-05-2024,CUST281,Mobile,Electronics,1,66161,6,62191.34,East,UPI
+ORD1442,09-12-2024,CUST55,Laptop,Electronics,1,51538,6,48445.72,South,Credit Card
+ORD1443,26-03-2024,CUST277,Laptop,Electronics,2,37765,16,63445.2,West,Cash on Delivery
+ORD1444,20-08-2024,CUST255,Laptop,Electronics,4,56036,17,186039.52,South,Credit Card
+ORD1445,07-10-2024,CUST116,Tablet,Electronics,4,47309,6,177881.84,West,Cash on Delivery
+ORD1446,29-07-2024,CUST233,Tablet,Electronics,3,29184,16,73543.68,East,UPI
+ORD1447,23-11-2024,CUST144,Tablet,Electronics,5,51711,11,230113.95,East,Cash on Delivery
+ORD1448,22-01-2024,CUST221,Tablet,Electronics,2,52321,15,88945.7,West,UPI
+ORD1449,21-08-2024,CUST281,Laptop,Electronics,2,41612,5,79062.8,North,Cash on Delivery
+ORD1450,16-11-2024,CUST123,Smartwatch,Accessories,1,8976,3,8706.72,South,UPI
+ORD1451,04-01-2024,CUST59,Mobile,Electronics,1,11485,6,10795.9,South,Credit Card
+ORD1452,13-02-2024,CUST76,Tablet,Electronics,4,18180,12,63993.6,South,UPI
+ORD1453,13-07-2024,CUST283,Headphones,Accessories,2,7426,19,12030.12,South,UPI
+ORD1454,23-02-2024,CUST29,Headphones,Accessories,2,2252,3,4368.88,West,Debit Card
+ORD1455,06-06-2024,CUST83,Smartwatch,Accessories,1,6474,0,6474,East,Debit Card
+ORD1456,18-10-2024,CUST149,Smartwatch,Accessories,5,4713,10,21208.5,East,Cash on Delivery
+ORD1457,09-07-2024,CUST1,Laptop,Electronics,4,12202,4,46855.68,North,Cash on Delivery
+ORD1458,10-12-2024,CUST75,Smartwatch,Accessories,2,4233,14,7280.76,West,Credit Card
+ORD1459,29-10-2024,CUST258,Tablet,Electronics,1,25527,3,24761.19,North,Cash on Delivery
+ORD1460,23-11-2024,CUST142,Mobile,Electronics,4,60033,3,232928.04,South,UPI
+ORD1461,26-07-2024,CUST293,Smartwatch,Accessories,5,2500,17,10375,East,Credit Card
+ORD1462,13-01-2024,CUST40,Smartwatch,Accessories,5,8643,6,40622.1,East,UPI
+ORD1463,18-03-2024,CUST281,Laptop,Electronics,3,60598,15,154524.9,West,UPI
+ORD1464,25-06-2024,CUST214,Headphones,Accessories,2,8683,10,15629.4,North,Debit Card
+ORD1465,02-11-2024,CUST176,Laptop,Electronics,2,30488,8,56097.92,North,Debit Card
+ORD1466,02-01-2024,CUST210,Smartwatch,Accessories,2,8668,2,16989.28,South,Credit Card
+ORD1467,20-06-2024,CUST233,Smartwatch,Accessories,3,3376,10,9115.2,West,Debit Card
+ORD1468,05-10-2024,CUST255,Mobile,Electronics,4,69364,12,244161.28,North,UPI
+ORD1469,08-11-2024,CUST45,Mobile,Electronics,3,28250,9,77122.5,West,Cash on Delivery
+ORD1470,22-07-2024,CUST158,Headphones,Accessories,2,1569,9,2855.58,East,Debit Card
+ORD1471,03-11-2024,CUST12,Laptop,Electronics,5,15168,5,72048,East,UPI
+ORD1472,27-04-2024,CUST293,Tablet,Electronics,5,36831,11,163897.95,South,Credit Card
+ORD1473,25-07-2024,CUST268,Smartwatch,Accessories,2,5664,15,9628.8,West,Credit Card
+ORD1474,08-08-2024,CUST230,Mobile,Electronics,5,55666,13,242147.1,South,Credit Card
+ORD1475,25-08-2024,CUST219,Laptop,Electronics,3,37544,4,108126.72,West,UPI
+ORD1476,09-04-2024,CUST127,Headphones,Accessories,1,9216,0,9216,North,Cash on Delivery
+ORD1477,03-01-2024,CUST159,Tablet,Electronics,3,75135,7,209626.65,South,Credit Card
+ORD1478,04-07-2024,CUST103,Smartwatch,Accessories,1,2628,3,2549.16,West,Cash on Delivery
+ORD1479,14-12-2024,CUST195,Mobile,Electronics,1,62168,17,51599.44,East,Debit Card
+ORD1480,15-12-2024,CUST181,Headphones,Accessories,5,1163,7,5407.95,South,Debit Card
+ORD1481,05-10-2024,CUST219,Mobile,Electronics,5,15540,18,63714,West,UPI
+ORD1482,22-07-2024,CUST224,Laptop,Electronics,4,28540,17,94752.8,South,Cash on Delivery
+ORD1483,09-11-2024,CUST149,Tablet,Electronics,2,50886,12,89559.36,North,Cash on Delivery
+ORD1484,12-02-2024,CUST15,Tablet,Electronics,3,50074,5,142710.9,West,Credit Card
+ORD1485,17-03-2024,CUST38,Tablet,Electronics,4,43068,10,155044.8,West,Credit Card
+ORD1486,13-11-2024,CUST44,Smartwatch,Accessories,2,9306,10,16750.8,South,Credit Card
+ORD1487,21-12-2024,CUST3,Laptop,Electronics,2,52193,2,102298.28,East,Credit Card
+ORD1488,30-01-2024,CUST93,Headphones,Accessories,4,6397,20,20470.4,East,Credit Card
+ORD1489,18-08-2024,CUST249,Headphones,Accessories,3,3859,15,9840.45,South,Debit Card
+ORD1490,22-09-2024,CUST244,Smartwatch,Accessories,5,1103,20,4412,West,Credit Card
+ORD1491,17-03-2024,CUST283,Mobile,Electronics,3,37382,18,91959.72,South,Credit Card
+ORD1492,29-03-2024,CUST293,Headphones,Accessories,3,5481,5,15620.85,North,Cash on Delivery
+ORD1493,06-10-2024,CUST206,Mobile,Electronics,4,56760,7,211147.2,North,UPI
+ORD1494,24-03-2024,CUST13,Laptop,Electronics,4,32142,1,127282.32,South,Debit Card
+ORD1495,17-05-2024,CUST195,Tablet,Electronics,2,18683,13,32508.42,South,Debit Card
+ORD1496,20-11-2024,CUST65,Headphones,Accessories,5,1658,14,7129.4,West,Debit Card
+ORD1497,13-09-2024,CUST295,Laptop,Electronics,1,40506,8,37265.52,West,Debit Card
+ORD1498,23-07-2024,CUST7,Laptop,Electronics,5,68425,11,304491.25,North,UPI
+ORD1499,07-01-2024,CUST41,Smartwatch,Accessories,3,1368,10,3693.6,South,UPI
+ORD1500,20-07-2024,CUST264,Mobile,Electronics,4,52444,7,195091.68,West,Debit Card
+ORD1501,24-01-2024,CUST145,Smartwatch,Accessories,4,7297,11,25977.32,South,Credit Card
+ORD1502,11-02-2024,CUST218,Headphones,Accessories,4,7199,4,27644.16,South,Debit Card
+ORD1503,09-11-2024,CUST46,Laptop,Electronics,1,72271,11,64321.19,North,Debit Card
+ORD1504,22-08-2024,CUST111,Tablet,Electronics,4,13813,18,45306.64,South,UPI
+ORD1505,09-03-2024,CUST265,Headphones,Accessories,5,6190,19,25069.5,North,Credit Card
+ORD1506,31-01-2024,CUST153,Headphones,Accessories,1,5757,12,5066.16,South,Cash on Delivery
+ORD1507,05-08-2024,CUST73,Tablet,Electronics,2,43883,16,73723.44,South,Credit Card
+ORD1508,15-01-2024,CUST14,Tablet,Electronics,3,12755,7,35586.45,South,Credit Card
+ORD1509,05-01-2024,CUST254,Tablet,Electronics,1,43923,10,39530.7,North,Cash on Delivery
+ORD1510,26-12-2024,CUST274,Smartwatch,Accessories,5,1847,12,8126.8,West,Debit Card
+ORD1511,14-09-2024,CUST281,Tablet,Electronics,3,28877,16,72770.04,East,UPI
+ORD1512,15-06-2024,CUST41,Headphones,Accessories,1,5341,18,4379.62,East,Debit Card
+ORD1513,07-07-2024,CUST166,Headphones,Accessories,5,3616,19,14644.8,South,Cash on Delivery
+ORD1514,09-08-2024,CUST31,Laptop,Electronics,2,13834,15,23517.8,East,UPI
+ORD1515,25-04-2024,CUST278,Headphones,Accessories,3,6347,17,15804.03,North,Credit Card
+ORD1516,04-11-2024,CUST45,Smartwatch,Accessories,4,9318,13,32426.64,North,Credit Card
+ORD1517,16-03-2024,CUST197,Smartwatch,Accessories,2,9972,10,17949.6,North,UPI
+ORD1518,17-12-2024,CUST161,Mobile,Electronics,5,73002,9,332159.1,West,UPI
+ORD1519,16-03-2024,CUST8,Laptop,Electronics,3,47088,12,124312.32,East,UPI
+ORD1520,07-11-2024,CUST181,Laptop,Electronics,5,15210,7,70726.5,West,UPI
+ORD1521,14-12-2024,CUST253,Mobile,Electronics,5,24714,7,114920.1,West,Credit Card
+ORD1522,24-01-2024,CUST77,Tablet,Electronics,4,28499,9,103736.36,South,UPI
+ORD1523,22-10-2024,CUST172,Laptop,Electronics,3,42875,15,109331.25,South,Credit Card
+ORD1524,11-06-2024,CUST141,Mobile,Electronics,3,43901,14,113264.58,North,Debit Card
+ORD1525,15-07-2024,CUST300,Headphones,Accessories,5,8186,7,38064.9,North,UPI
+ORD1526,25-09-2024,CUST246,Headphones,Accessories,3,2501,13,6527.61,East,UPI
+ORD1527,25-08-2024,CUST175,Headphones,Accessories,1,1579,13,1373.73,West,UPI
+ORD1528,03-05-2024,CUST58,Tablet,Electronics,4,37063,10,133426.8,East,Credit Card
+ORD1529,05-04-2024,CUST85,Laptop,Electronics,2,32893,11,58549.54,West,Debit Card
+ORD1530,21-10-2024,CUST265,Smartwatch,Accessories,2,7504,0,15008,South,Credit Card
+ORD1531,08-06-2024,CUST24,Tablet,Electronics,1,29141,1,28849.59,West,Credit Card
+ORD1532,06-01-2024,CUST171,Mobile,Electronics,2,58130,19,94170.6,East,Debit Card
+ORD1533,12-04-2024,CUST285,Headphones,Accessories,3,1659,0,4977,West,Cash on Delivery
+ORD1534,06-12-2024,CUST187,Laptop,Electronics,4,62799,3,243660.12,South,Debit Card
+ORD1535,23-12-2024,CUST39,Mobile,Electronics,3,72485,18,178313.1,West,Cash on Delivery
+ORD1536,01-09-2024,CUST57,Smartwatch,Accessories,3,8310,16,20941.2,West,UPI
+ORD1537,08-08-2024,CUST5,Laptop,Electronics,1,64209,5,60998.55,South,Credit Card
+ORD1538,07-06-2024,CUST104,Headphones,Accessories,5,7977,8,36694.2,South,Debit Card
+ORD1539,29-11-2024,CUST158,Mobile,Electronics,2,58771,13,102261.54,South,UPI
+ORD1540,23-05-2024,CUST36,Laptop,Electronics,1,25410,10,22869,West,Cash on Delivery
+ORD1541,23-07-2024,CUST151,Mobile,Electronics,1,10761,7,10007.73,North,UPI
+ORD1542,30-05-2024,CUST78,Smartwatch,Accessories,5,3248,0,16240,North,UPI
+ORD1543,11-06-2024,CUST291,Headphones,Accessories,2,3986,9,7254.52,North,Debit Card
+ORD1544,09-03-2024,CUST261,Mobile,Electronics,4,20992,20,67174.4,East,Credit Card
+ORD1545,01-06-2024,CUST235,Smartwatch,Accessories,4,3898,1,15436.08,West,Credit Card
+ORD1546,22-12-2024,CUST93,Tablet,Electronics,4,32866,4,126205.44,South,Credit Card
+ORD1547,21-07-2024,CUST39,Headphones,Accessories,2,8504,5,16157.6,West,Cash on Delivery
+ORD1548,03-07-2024,CUST183,Mobile,Electronics,3,60216,0,180648,East,UPI
+ORD1549,04-04-2024,CUST234,Laptop,Electronics,1,58444,6,54937.36,East,Debit Card
+ORD1550,21-03-2024,CUST66,Smartwatch,Accessories,3,4437,12,11713.68,South,UPI
+ORD1551,22-08-2024,CUST153,Laptop,Electronics,3,60525,10,163417.5,North,UPI
+ORD1552,17-08-2024,CUST203,Smartwatch,Accessories,5,9322,5,44279.5,South,UPI
+ORD1553,27-02-2024,CUST215,Headphones,Accessories,2,6652,18,10909.28,East,UPI
+ORD1554,09-05-2024,CUST132,Tablet,Electronics,5,27287,0,136435,South,Credit Card
+ORD1555,17-09-2024,CUST161,Tablet,Electronics,4,43478,20,139129.6,West,Credit Card
+ORD1556,11-10-2024,CUST210,Mobile,Electronics,1,44581,0,44581,East,Debit Card
+ORD1557,01-04-2024,CUST204,Tablet,Electronics,5,65275,19,264363.75,East,UPI
+ORD1558,22-12-2024,CUST45,Tablet,Electronics,1,51276,18,42046.32,East,Credit Card
+ORD1559,04-11-2024,CUST212,Smartwatch,Accessories,5,1441,6,6772.7,East,Cash on Delivery
+ORD1560,13-07-2024,CUST253,Tablet,Electronics,1,70325,4,67512,North,Cash on Delivery
+ORD1561,08-05-2024,CUST82,Tablet,Electronics,5,25352,2,124224.8,West,Debit Card
+ORD1562,16-05-2024,CUST60,Smartwatch,Accessories,1,2161,0,2161,South,Cash on Delivery
+ORD1563,05-12-2024,CUST101,Laptop,Electronics,4,39663,11,141200.28,South,Debit Card
+ORD1564,26-06-2024,CUST167,Smartwatch,Accessories,1,1682,4,1614.72,North,Credit Card
+ORD1565,19-10-2024,CUST83,Headphones,Accessories,4,2451,5,9313.8,East,Credit Card
+ORD1566,09-08-2024,CUST128,Smartwatch,Accessories,2,9385,12,16517.6,West,Cash on Delivery
+ORD1567,13-11-2024,CUST147,Laptop,Electronics,4,22871,12,80505.92,East,Credit Card
+ORD1568,14-08-2024,CUST288,Smartwatch,Accessories,2,6702,2,13135.92,North,UPI
+ORD1569,04-03-2024,CUST153,Laptop,Electronics,5,71942,14,309350.6,North,Cash on Delivery
+ORD1570,04-01-2024,CUST90,Smartwatch,Accessories,5,6136,5,29146,North,Credit Card
+ORD1571,30-11-2024,CUST135,Headphones,Accessories,4,7850,3,30458,East,Cash on Delivery
+ORD1572,23-01-2024,CUST57,Tablet,Electronics,2,56634,3,109869.96,East,Debit Card
+ORD1573,26-01-2024,CUST9,Tablet,Electronics,1,23187,7,21563.91,East,Credit Card
+ORD1574,05-05-2024,CUST217,Smartwatch,Accessories,4,3030,14,10423.2,East,Cash on Delivery
+ORD1575,20-12-2024,CUST21,Smartwatch,Accessories,2,4046,1,8011.08,West,Cash on Delivery
+ORD1576,26-07-2024,CUST47,Mobile,Electronics,2,17795,6,33454.6,East,UPI
+ORD1577,18-03-2024,CUST251,Headphones,Accessories,5,5289,0,26445,North,Debit Card
+ORD1578,06-11-2024,CUST151,Headphones,Accessories,5,7545,6,35461.5,East,Cash on Delivery
+ORD1579,13-03-2024,CUST242,Tablet,Electronics,2,79990,13,139182.6,South,Credit Card
+ORD1580,06-04-2024,CUST74,Laptop,Electronics,5,21652,1,107177.4,West,Cash on Delivery
+ORD1581,02-03-2024,CUST256,Tablet,Electronics,5,27632,9,125725.6,North,Debit Card
+ORD1582,19-04-2024,CUST80,Smartwatch,Accessories,1,6902,15,5866.7,North,UPI
+ORD1583,22-02-2024,CUST214,Smartwatch,Accessories,1,2582,15,2194.7,West,Debit Card
+ORD1584,29-06-2024,CUST103,Smartwatch,Accessories,1,9389,14,8074.54,South,Cash on Delivery
+ORD1585,09-02-2024,CUST23,Laptop,Electronics,5,75316,5,357751,North,UPI
+ORD1586,21-01-2024,CUST289,Tablet,Electronics,4,50090,15,170306,South,Credit Card
+ORD1587,20-10-2024,CUST270,Tablet,Electronics,3,49381,6,139254.42,East,Debit Card
+ORD1588,07-03-2024,CUST292,Headphones,Accessories,3,8156,16,20553.12,East,Debit Card
+ORD1589,05-06-2024,CUST65,Smartwatch,Accessories,4,5942,13,20678.16,East,Debit Card
+ORD1590,10-01-2024,CUST141,Mobile,Electronics,4,72701,6,273355.76,North,Credit Card
+ORD1591,04-03-2024,CUST29,Smartwatch,Accessories,2,4722,2,9255.12,South,Cash on Delivery
+ORD1592,27-11-2024,CUST138,Tablet,Electronics,1,47050,13,40933.5,South,UPI
+ORD1593,31-03-2024,CUST80,Mobile,Electronics,5,15496,12,68182.4,North,UPI
+ORD1594,25-09-2024,CUST61,Laptop,Electronics,2,70008,15,119013.6,South,UPI
+ORD1595,24-12-2024,CUST120,Laptop,Electronics,2,53558,18,87835.12,South,UPI
+ORD1596,11-11-2024,CUST274,Laptop,Electronics,4,21412,17,71087.84,West,UPI
+ORD1597,15-10-2024,CUST202,Headphones,Accessories,3,7213,10,19475.1,West,Debit Card
+ORD1598,02-02-2024,CUST239,Headphones,Accessories,2,6399,12,11262.24,North,Credit Card
+ORD1599,21-10-2024,CUST114,Smartwatch,Accessories,4,1259,8,4633.12,North,Cash on Delivery
+ORD1600,31-03-2024,CUST49,Laptop,Electronics,5,31926,5,151648.5,East,Debit Card
+ORD1601,01-03-2024,CUST47,Headphones,Accessories,2,6890,11,12264.2,East,UPI
+ORD1602,24-10-2024,CUST238,Smartwatch,Accessories,4,7461,14,25665.84,North,UPI
+ORD1603,22-08-2024,CUST60,Headphones,Accessories,2,7441,15,12649.7,East,UPI
+ORD1604,17-08-2024,CUST285,Mobile,Electronics,3,55332,10,149396.4,West,Debit Card
+ORD1605,11-03-2024,CUST1,Mobile,Electronics,4,21845,10,78642,West,Debit Card
+ORD1606,07-11-2024,CUST76,Mobile,Electronics,5,43656,8,200817.6,East,Debit Card
+ORD1607,21-06-2024,CUST284,Mobile,Electronics,2,57909,5,110027.1,West,UPI
+ORD1608,05-10-2024,CUST195,Mobile,Electronics,1,38567,14,33167.62,South,UPI
+ORD1609,28-09-2024,CUST47,Smartwatch,Accessories,5,1926,11,8570.7,East,Cash on Delivery
+ORD1610,04-05-2024,CUST112,Laptop,Electronics,4,75132,10,270475.2,East,Debit Card
+ORD1611,16-03-2024,CUST257,Smartwatch,Accessories,4,6163,16,20707.68,East,Debit Card
+ORD1612,12-08-2024,CUST158,Smartwatch,Accessories,1,8914,0,8914,South,Debit Card
+ORD1613,31-07-2024,CUST203,Mobile,Electronics,5,49393,11,219798.85,South,Debit Card
+ORD1614,20-11-2024,CUST261,Tablet,Electronics,3,20814,1,61817.58,West,Credit Card
+ORD1615,01-02-2024,CUST113,Smartwatch,Accessories,2,2554,16,4290.72,East,Cash on Delivery
+ORD1616,11-05-2024,CUST36,Laptop,Electronics,5,9916,19,40159.8,East,Credit Card
+ORD1617,12-05-2024,CUST40,Smartwatch,Accessories,5,5152,19,20865.6,South,Debit Card
+ORD1618,18-07-2024,CUST202,Smartwatch,Accessories,3,1166,16,2938.32,West,UPI
+ORD1619,29-11-2024,CUST256,Mobile,Electronics,5,40448,20,161792,South,Debit Card
+ORD1620,09-04-2024,CUST122,Laptop,Electronics,3,44731,5,127483.35,West,UPI
+ORD1621,19-08-2024,CUST109,Tablet,Electronics,3,73376,6,206920.32,South,Cash on Delivery
+ORD1622,11-05-2024,CUST151,Mobile,Electronics,5,49706,11,221191.7,South,Cash on Delivery
+ORD1623,22-10-2024,CUST156,Headphones,Accessories,4,3531,5,13417.8,East,Debit Card
+ORD1624,09-03-2024,CUST207,Laptop,Electronics,3,38431,14,99151.98,West,UPI
+ORD1625,10-12-2024,CUST133,Smartwatch,Accessories,5,9935,18,40733.5,East,Debit Card
+ORD1626,03-12-2024,CUST274,Headphones,Accessories,1,8722,8,8024.24,East,Cash on Delivery
+ORD1627,11-05-2024,CUST136,Smartwatch,Accessories,5,4528,1,22413.6,West,Cash on Delivery
+ORD1628,06-12-2024,CUST244,Smartwatch,Accessories,1,7733,1,7655.67,North,Debit Card
+ORD1629,23-06-2024,CUST22,Mobile,Electronics,5,75789,0,378945,North,Cash on Delivery
+ORD1630,18-04-2024,CUST2,Headphones,Accessories,4,6843,19,22171.32,North,Debit Card
+ORD1631,24-05-2024,CUST152,Headphones,Accessories,2,6286,11,11189.08,West,Debit Card
+ORD1632,26-06-2024,CUST10,Mobile,Electronics,1,73627,17,61110.41,South,Cash on Delivery
+ORD1633,04-08-2024,CUST100,Laptop,Electronics,2,28441,10,51193.8,South,Credit Card
+ORD1634,05-06-2024,CUST130,Headphones,Accessories,4,1374,16,4616.64,South,Debit Card
+ORD1635,31-07-2024,CUST35,Smartwatch,Accessories,2,9738,19,15775.56,North,Credit Card
+ORD1636,18-01-2024,CUST2,Laptop,Electronics,1,27434,15,23318.9,North,Credit Card
+ORD1637,02-07-2024,CUST50,Smartwatch,Accessories,3,6429,10,17358.3,South,Credit Card
+ORD1638,19-09-2024,CUST225,Smartwatch,Accessories,4,2079,1,8232.84,East,Cash on Delivery
+ORD1639,26-07-2024,CUST66,Tablet,Electronics,2,35420,11,63047.6,West,UPI
+ORD1640,20-10-2024,CUST128,Mobile,Electronics,3,66480,10,179496,West,Debit Card
+ORD1641,12-11-2024,CUST59,Laptop,Electronics,4,56633,9,206144.12,West,Cash on Delivery
+ORD1642,12-06-2024,CUST164,Tablet,Electronics,3,67165,12,177315.6,East,Credit Card
+ORD1643,22-05-2024,CUST181,Tablet,Electronics,3,7265,20,17436,North,Credit Card
+ORD1644,21-08-2024,CUST269,Mobile,Electronics,3,68622,20,164692.8,West,Credit Card
+ORD1645,27-02-2024,CUST231,Headphones,Accessories,1,3471,4,3332.16,East,Cash on Delivery
+ORD1646,26-10-2024,CUST97,Mobile,Electronics,5,55289,2,270916.1,South,Cash on Delivery
+ORD1647,15-07-2024,CUST1,Headphones,Accessories,1,4195,11,3733.55,East,UPI
+ORD1648,29-07-2024,CUST160,Headphones,Accessories,5,3907,7,18167.55,North,Debit Card
+ORD1649,25-04-2024,CUST40,Headphones,Accessories,1,8221,3,7974.37,North,UPI
+ORD1650,31-10-2024,CUST7,Tablet,Electronics,2,22743,6,42756.84,North,Credit Card
+ORD1651,08-05-2024,CUST81,Headphones,Accessories,3,4760,5,13566,North,UPI
+ORD1652,03-07-2024,CUST226,Headphones,Accessories,4,7711,8,28376.48,South,UPI
+ORD1653,10-07-2024,CUST101,Headphones,Accessories,1,2042,6,1919.48,West,UPI
+ORD1654,28-01-2024,CUST157,Tablet,Electronics,4,58762,7,218594.64,South,UPI
+ORD1655,29-02-2024,CUST268,Smartwatch,Accessories,3,2747,9,7499.31,North,UPI
+ORD1656,05-10-2024,CUST248,Headphones,Accessories,5,3582,0,17910,West,Cash on Delivery
+ORD1657,23-05-2024,CUST12,Smartwatch,Accessories,3,7647,15,19499.85,South,Debit Card
+ORD1658,05-09-2024,CUST263,Headphones,Accessories,1,9319,2,9132.62,South,UPI
+ORD1659,12-07-2024,CUST194,Smartwatch,Accessories,3,3799,0,11397,West,Cash on Delivery
+ORD1660,01-02-2024,CUST39,Tablet,Electronics,3,50269,7,140250.51,North,Debit Card
+ORD1661,27-08-2024,CUST174,Tablet,Electronics,2,7613,2,14921.48,East,Cash on Delivery
+ORD1662,14-06-2024,CUST122,Smartwatch,Accessories,4,5255,20,16816,East,Cash on Delivery
+ORD1663,29-06-2024,CUST288,Smartwatch,Accessories,3,4419,1,13124.43,West,Debit Card
+ORD1664,17-12-2024,CUST34,Laptop,Electronics,2,29517,2,57853.32,South,Credit Card
+ORD1665,29-10-2024,CUST151,Smartwatch,Accessories,4,1080,5,4104,East,UPI
+ORD1666,07-11-2024,CUST248,Laptop,Electronics,1,7207,11,6414.23,South,Credit Card
+ORD1667,05-12-2024,CUST251,Tablet,Electronics,3,51647,11,137897.49,North,UPI
+ORD1668,22-07-2024,CUST273,Smartwatch,Accessories,3,8170,15,20833.5,West,UPI
+ORD1669,01-05-2024,CUST202,Tablet,Electronics,5,76544,4,367411.2,North,UPI
+ORD1670,24-06-2024,CUST139,Smartwatch,Accessories,3,7042,2,20703.48,West,Debit Card
+ORD1671,09-01-2024,CUST90,Tablet,Electronics,5,54922,2,269117.8,West,UPI
+ORD1672,13-09-2024,CUST147,Headphones,Accessories,5,7647,15,32499.75,North,Cash on Delivery
+ORD1673,20-05-2024,CUST197,Tablet,Electronics,2,62492,4,119984.64,East,Debit Card
+ORD1674,04-11-2024,CUST124,Mobile,Electronics,2,75736,10,136324.8,North,UPI
+ORD1675,24-06-2024,CUST115,Laptop,Electronics,1,30855,11,27460.95,South,Cash on Delivery
+ORD1676,17-07-2024,CUST278,Smartwatch,Accessories,3,8944,15,22807.2,South,Credit Card
+ORD1677,18-03-2024,CUST43,Laptop,Electronics,4,10243,19,33187.32,North,Credit Card
+ORD1678,25-04-2024,CUST173,Tablet,Electronics,2,76877,3,149141.38,East,Cash on Delivery
+ORD1679,12-10-2024,CUST140,Smartwatch,Accessories,1,6690,16,5619.6,South,Credit Card
+ORD1680,31-10-2024,CUST44,Laptop,Electronics,1,72997,8,67157.24,East,UPI
+ORD1681,27-08-2024,CUST65,Tablet,Electronics,5,10784,1,53380.8,South,UPI
+ORD1682,02-05-2024,CUST269,Smartwatch,Accessories,5,9523,16,39996.6,North,UPI
+ORD1683,18-04-2024,CUST13,Smartwatch,Accessories,4,1056,6,3970.56,North,UPI
+ORD1684,13-08-2024,CUST258,Smartwatch,Accessories,4,4982,9,18134.48,East,Credit Card
+ORD1685,19-06-2024,CUST17,Laptop,Electronics,3,49094,17,122244.06,North,Debit Card
+ORD1686,19-10-2024,CUST169,Smartwatch,Accessories,2,1578,12,2777.28,East,Cash on Delivery
+ORD1687,07-07-2024,CUST166,Tablet,Electronics,1,49749,7,46266.57,East,Debit Card
+ORD1688,25-02-2024,CUST30,Laptop,Electronics,3,38008,16,95780.16,East,Cash on Delivery
+ORD1689,08-08-2024,CUST116,Smartwatch,Accessories,4,2435,1,9642.6,West,Cash on Delivery
+ORD1690,02-03-2024,CUST168,Laptop,Electronics,2,61994,7,115308.84,East,UPI
+ORD1691,05-03-2024,CUST17,Smartwatch,Accessories,4,6654,11,23688.24,South,Cash on Delivery
+ORD1692,09-08-2024,CUST28,Laptop,Electronics,2,39234,17,65128.44,South,Cash on Delivery
+ORD1693,19-10-2024,CUST158,Mobile,Electronics,3,67479,12,178144.56,East,Credit Card
+ORD1694,03-11-2024,CUST294,Mobile,Electronics,5,12600,10,56700,West,Credit Card
+ORD1695,26-03-2024,CUST300,Tablet,Electronics,4,19802,9,72079.28,East,Debit Card
+ORD1696,09-01-2024,CUST216,Laptop,Electronics,5,34105,1,168819.75,South,UPI
+ORD1697,17-09-2024,CUST152,Tablet,Electronics,4,19059,4,73186.56,West,Debit Card
+ORD1698,23-01-2024,CUST202,Smartwatch,Accessories,3,2861,1,8497.17,North,Credit Card
+ORD1699,01-10-2024,CUST50,Tablet,Electronics,1,46229,10,41606.1,East,Credit Card
+ORD1700,13-07-2024,CUST109,Smartwatch,Accessories,3,8114,6,22881.48,East,Credit Card
+ORD1701,11-03-2024,CUST49,Headphones,Accessories,1,2986,2,2926.28,East,Cash on Delivery
+ORD1702,12-02-2024,CUST134,Smartwatch,Accessories,1,5603,16,4706.52,South,Cash on Delivery
+ORD1703,18-07-2024,CUST61,Headphones,Accessories,2,9555,0,19110,North,Debit Card
+ORD1704,11-01-2024,CUST294,Laptop,Electronics,5,60196,1,297970.2,North,Cash on Delivery
+ORD1705,26-02-2024,CUST272,Mobile,Electronics,5,40449,17,167863.35,South,Cash on Delivery
+ORD1706,25-09-2024,CUST158,Mobile,Electronics,3,73209,3,213038.19,North,Credit Card
+ORD1707,17-03-2024,CUST178,Mobile,Electronics,1,76055,20,60844,East,Debit Card
+ORD1708,19-04-2024,CUST121,Smartwatch,Accessories,4,5444,11,19380.64,South,Credit Card
+ORD1709,21-09-2024,CUST250,Tablet,Electronics,1,58245,16,48925.8,North,Cash on Delivery
+ORD1710,16-03-2024,CUST155,Headphones,Accessories,3,5621,20,13490.4,West,UPI
+ORD1711,25-01-2024,CUST22,Mobile,Electronics,1,45386,0,45386,East,Credit Card
+ORD1712,22-05-2024,CUST249,Tablet,Electronics,5,50497,10,227236.5,West,Debit Card
+ORD1713,03-02-2024,CUST221,Headphones,Accessories,1,8426,15,7162.1,South,Credit Card
+ORD1714,25-01-2024,CUST233,Tablet,Electronics,2,21876,20,35001.6,North,Cash on Delivery
+ORD1715,07-09-2024,CUST64,Smartwatch,Accessories,1,3540,3,3433.8,West,Debit Card
+ORD1716,16-04-2024,CUST128,Smartwatch,Accessories,3,2934,5,8361.9,West,Cash on Delivery
+ORD1717,13-05-2024,CUST290,Headphones,Accessories,5,6449,7,29987.85,West,Cash on Delivery
+ORD1718,16-07-2024,CUST254,Smartwatch,Accessories,3,2442,1,7252.74,East,Debit Card
+ORD1719,14-11-2024,CUST285,Headphones,Accessories,2,8513,12,14982.88,East,Cash on Delivery
+ORD1720,19-08-2024,CUST104,Headphones,Accessories,1,7903,11,7033.67,North,Credit Card
+ORD1721,10-08-2024,CUST135,Laptop,Electronics,4,35925,5,136515,North,Cash on Delivery
+ORD1722,23-12-2024,CUST28,Tablet,Electronics,4,61825,16,207732,South,Cash on Delivery
+ORD1723,02-08-2024,CUST146,Tablet,Electronics,1,74695,9,67972.45,South,UPI
+ORD1724,27-02-2024,CUST142,Tablet,Electronics,4,11089,16,37259.04,South,UPI
+ORD1725,15-02-2024,CUST119,Tablet,Electronics,3,42199,20,101277.6,East,UPI
+ORD1726,13-06-2024,CUST14,Laptop,Electronics,4,67859,1,268721.64,West,UPI
+ORD1727,19-04-2024,CUST29,Smartwatch,Accessories,5,1732,14,7447.6,North,UPI
+ORD1728,02-06-2024,CUST287,Headphones,Accessories,1,6588,6,6192.72,East,Cash on Delivery
+ORD1729,06-02-2024,CUST269,Tablet,Electronics,5,37947,7,176453.55,West,Credit Card
+ORD1730,17-05-2024,CUST99,Mobile,Electronics,5,40717,2,199513.3,North,Credit Card
+ORD1731,02-04-2024,CUST65,Smartwatch,Accessories,1,5207,6,4894.58,East,Debit Card
+ORD1732,18-05-2024,CUST184,Tablet,Electronics,4,18752,10,67507.2,East,UPI
+ORD1733,01-08-2024,CUST297,Tablet,Electronics,3,60764,12,160416.96,North,Debit Card
+ORD1734,18-02-2024,CUST89,Headphones,Accessories,4,6405,10,23058,South,UPI
+ORD1735,12-06-2024,CUST58,Tablet,Electronics,5,22814,18,93537.4,East,Credit Card
+ORD1736,12-08-2024,CUST177,Laptop,Electronics,3,7350,17,18301.5,West,UPI
+ORD1737,27-03-2024,CUST265,Headphones,Accessories,1,4828,18,3958.96,East,Debit Card
+ORD1738,09-12-2024,CUST90,Tablet,Electronics,1,11897,16,9993.48,East,Debit Card
+ORD1739,17-10-2024,CUST27,Laptop,Electronics,5,61448,2,301095.2,West,Debit Card
+ORD1740,01-12-2024,CUST78,Laptop,Electronics,2,68718,3,133312.92,East,UPI
+ORD1741,03-07-2024,CUST277,Headphones,Accessories,3,1050,20,2520,North,UPI
+ORD1742,01-04-2024,CUST1,Smartwatch,Accessories,4,4502,5,17107.6,South,UPI
+ORD1743,03-08-2024,CUST271,Smartwatch,Accessories,1,2839,9,2583.49,North,Credit Card
+ORD1744,04-03-2024,CUST112,Laptop,Electronics,4,10370,3,40235.6,North,Credit Card
+ORD1745,03-08-2024,CUST108,Headphones,Accessories,5,9276,6,43597.2,North,UPI
+ORD1746,19-04-2024,CUST159,Smartwatch,Accessories,4,8824,5,33531.2,North,Credit Card
+ORD1747,17-03-2024,CUST242,Smartwatch,Accessories,4,8823,8,32468.64,South,Credit Card
+ORD1748,26-02-2024,CUST7,Laptop,Electronics,1,11021,17,9147.43,West,Cash on Delivery
+ORD1749,04-02-2024,CUST242,Smartwatch,Accessories,5,7875,16,33075,North,Cash on Delivery
+ORD1750,04-10-2024,CUST6,Smartwatch,Accessories,5,2469,8,11357.4,East,Credit Card
+ORD1751,18-05-2024,CUST211,Smartwatch,Accessories,3,3981,12,10509.84,South,Credit Card
+ORD1752,05-08-2024,CUST134,Headphones,Accessories,3,3563,15,9085.65,South,Credit Card
+ORD1753,29-09-2024,CUST38,Headphones,Accessories,5,5043,4,24206.4,South,Cash on Delivery
+ORD1754,09-06-2024,CUST32,Laptop,Electronics,2,73356,5,139376.4,West,Debit Card
+ORD1755,18-07-2024,CUST87,Smartwatch,Accessories,4,5094,5,19357.2,East,Debit Card
+ORD1756,24-10-2024,CUST80,Smartwatch,Accessories,2,4535,10,8163,West,Cash on Delivery
+ORD1757,09-12-2024,CUST286,Mobile,Electronics,2,18770,14,32284.4,West,Credit Card
+ORD1758,17-12-2024,CUST127,Headphones,Accessories,2,2100,18,3444,East,Credit Card
+ORD1759,21-09-2024,CUST92,Mobile,Electronics,4,42781,18,140321.68,West,Debit Card
+ORD1760,01-04-2024,CUST98,Laptop,Electronics,1,32425,4,31128,South,UPI
+ORD1761,14-03-2024,CUST87,Tablet,Electronics,5,44992,19,182217.6,East,Cash on Delivery
+ORD1762,22-11-2024,CUST25,Tablet,Electronics,2,51765,9,94212.3,South,UPI
+ORD1763,23-04-2024,CUST158,Headphones,Accessories,1,7642,6,7183.48,South,Cash on Delivery
+ORD1764,12-04-2024,CUST258,Tablet,Electronics,2,6295,0,12590,East,Cash on Delivery
+ORD1765,25-11-2024,CUST173,Laptop,Electronics,3,60508,4,174263.04,North,UPI
+ORD1766,18-08-2024,CUST278,Laptop,Electronics,3,11968,16,30159.36,East,Credit Card
+ORD1767,14-07-2024,CUST272,Mobile,Electronics,4,41737,4,160270.08,South,UPI
+ORD1768,12-11-2024,CUST244,Tablet,Electronics,3,17730,2,52126.2,East,Cash on Delivery
+ORD1769,05-03-2024,CUST84,Headphones,Accessories,5,9485,13,41259.75,South,Cash on Delivery
+ORD1770,20-10-2024,CUST260,Tablet,Electronics,5,70678,12,310983.2,North,Debit Card
+ORD1771,18-11-2024,CUST153,Smartwatch,Accessories,2,4069,5,7731.1,East,Cash on Delivery
+ORD1772,30-01-2024,CUST108,Tablet,Electronics,3,47905,1,142277.85,South,Cash on Delivery
+ORD1773,12-03-2024,CUST290,Smartwatch,Accessories,1,1280,2,1254.4,East,Credit Card
+ORD1774,18-03-2024,CUST44,Laptop,Electronics,1,59433,18,48735.06,South,UPI
+ORD1775,26-04-2024,CUST40,Laptop,Electronics,4,57335,8,210992.8,North,Credit Card
+ORD1776,10-12-2024,CUST262,Mobile,Electronics,1,61751,3,59898.47,North,UPI
+ORD1777,12-11-2024,CUST88,Smartwatch,Accessories,4,7841,2,30736.72,West,Credit Card
+ORD1778,08-12-2024,CUST201,Tablet,Electronics,1,54865,5,52121.75,North,Credit Card
+ORD1779,17-02-2024,CUST155,Smartwatch,Accessories,1,4994,2,4894.12,North,Cash on Delivery
+ORD1780,19-02-2024,CUST141,Tablet,Electronics,5,50987,9,231990.85,North,UPI
+ORD1781,02-01-2024,CUST193,Smartwatch,Accessories,2,6180,19,10011.6,North,Cash on Delivery
+ORD1782,14-11-2024,CUST159,Tablet,Electronics,5,42914,19,173801.7,West,UPI
+ORD1783,13-10-2024,CUST36,Tablet,Electronics,3,39698,18,97657.08,North,Cash on Delivery
+ORD1784,22-08-2024,CUST144,Smartwatch,Accessories,4,1038,5,3944.4,West,Cash on Delivery
+ORD1785,15-11-2024,CUST112,Laptop,Electronics,3,33877,10,91467.9,West,Cash on Delivery
+ORD1786,10-03-2024,CUST22,Tablet,Electronics,2,33566,12,59076.16,East,Cash on Delivery
+ORD1787,19-12-2024,CUST231,Laptop,Electronics,4,47104,9,171458.56,North,UPI
+ORD1788,13-02-2024,CUST163,Laptop,Electronics,4,79770,3,309507.6,West,Cash on Delivery
+ORD1789,27-05-2024,CUST188,Smartwatch,Accessories,5,1413,7,6570.45,South,Credit Card
+ORD1790,24-07-2024,CUST279,Tablet,Electronics,1,55150,0,55150,South,Cash on Delivery
+ORD1791,29-02-2024,CUST95,Mobile,Electronics,1,73801,9,67158.91,West,Debit Card
+ORD1792,25-01-2024,CUST267,Headphones,Accessories,2,4332,16,7277.76,East,Debit Card
+ORD1793,17-06-2024,CUST60,Mobile,Electronics,3,37473,10,101177.1,West,UPI
+ORD1794,01-11-2024,CUST227,Headphones,Accessories,4,2248,12,7912.96,South,Debit Card
+ORD1795,28-04-2024,CUST299,Laptop,Electronics,3,55970,14,144402.6,East,UPI
+ORD1796,17-11-2024,CUST73,Smartwatch,Accessories,5,6486,5,30808.5,West,Credit Card
+ORD1797,12-11-2024,CUST25,Tablet,Electronics,4,26989,19,87444.36,South,Credit Card
+ORD1798,21-10-2024,CUST220,Mobile,Electronics,3,53578,4,154304.64,North,Cash on Delivery
+ORD1799,23-03-2024,CUST62,Mobile,Electronics,3,22353,18,54988.38,South,Credit Card
+ORD1800,02-12-2024,CUST235,Headphones,Accessories,1,6550,0,6550,South,Cash on Delivery
+ORD1801,17-08-2024,CUST188,Headphones,Accessories,3,3630,8,10018.8,North,Credit Card
+ORD1802,29-11-2024,CUST205,Tablet,Electronics,2,40270,12,70875.2,South,Cash on Delivery
+ORD1803,21-10-2024,CUST247,Laptop,Electronics,1,71096,17,59009.68,North,UPI
+ORD1804,12-11-2024,CUST119,Headphones,Accessories,2,4476,6,8414.88,South,Debit Card
+ORD1805,13-05-2024,CUST69,Laptop,Electronics,1,34631,9,31514.21,South,UPI
+ORD1806,05-10-2024,CUST271,Smartwatch,Accessories,2,6070,13,10561.8,East,Credit Card
+ORD1807,18-01-2024,CUST245,Headphones,Accessories,1,6381,2,6253.38,East,UPI
+ORD1808,21-01-2024,CUST232,Mobile,Electronics,4,36120,4,138700.8,North,Credit Card
+ORD1809,10-11-2024,CUST42,Headphones,Accessories,2,9648,18,15822.72,West,UPI
+ORD1810,12-01-2024,CUST282,Laptop,Electronics,4,62586,9,227813.04,South,Cash on Delivery
+ORD1811,25-05-2024,CUST118,Smartwatch,Accessories,3,8892,16,22407.84,South,Debit Card
+ORD1812,28-06-2024,CUST197,Laptop,Electronics,4,58918,5,223888.4,West,Debit Card
+ORD1813,20-12-2024,CUST153,Headphones,Accessories,4,6616,7,24611.52,East,Cash on Delivery
+ORD1814,13-09-2024,CUST53,Tablet,Electronics,1,53193,14,45745.98,East,Credit Card
+ORD1815,27-07-2024,CUST200,Headphones,Accessories,2,3707,7,6895.02,South,UPI
+ORD1816,09-10-2024,CUST267,Tablet,Electronics,4,29465,14,101359.6,South,Debit Card
+ORD1817,08-09-2024,CUST196,Mobile,Electronics,3,15703,1,46637.91,East,Credit Card
+ORD1818,03-06-2024,CUST261,Mobile,Electronics,4,78839,17,261745.48,South,Debit Card
+ORD1819,24-12-2024,CUST118,Tablet,Electronics,1,20860,9,18982.6,West,Cash on Delivery
+ORD1820,21-11-2024,CUST43,Mobile,Electronics,3,70253,1,208651.41,South,Cash on Delivery
+ORD1821,29-03-2024,CUST260,Headphones,Accessories,5,5222,3,25326.7,West,Cash on Delivery
+ORD1822,03-05-2024,CUST209,Smartwatch,Accessories,4,3444,6,12949.44,South,UPI
+ORD1823,14-09-2024,CUST116,Tablet,Electronics,2,79246,16,133133.28,North,Cash on Delivery
+ORD1824,11-01-2024,CUST194,Tablet,Electronics,2,63490,14,109202.8,North,Credit Card
+ORD1825,25-01-2024,CUST16,Tablet,Electronics,4,27946,4,107312.64,South,Credit Card
+ORD1826,03-03-2024,CUST105,Headphones,Accessories,3,7461,15,19025.55,South,Cash on Delivery
+ORD1827,22-09-2024,CUST281,Headphones,Accessories,2,8293,9,15093.26,South,Debit Card
+ORD1828,21-10-2024,CUST76,Smartwatch,Accessories,2,8126,14,13976.72,East,Credit Card
+ORD1829,12-04-2024,CUST167,Tablet,Electronics,5,24088,17,99965.2,South,Credit Card
+ORD1830,31-07-2024,CUST43,Headphones,Accessories,4,1022,20,3270.4,South,UPI
+ORD1831,29-11-2024,CUST154,Headphones,Accessories,2,7290,12,12830.4,North,Credit Card
+ORD1832,20-06-2024,CUST255,Headphones,Accessories,1,4175,11,3715.75,South,UPI
+ORD1833,16-10-2024,CUST117,Tablet,Electronics,2,59107,11,105210.46,West,Debit Card
+ORD1834,05-01-2024,CUST297,Tablet,Electronics,4,79268,4,304389.12,South,Cash on Delivery
+ORD1835,28-10-2024,CUST117,Laptop,Electronics,5,6226,4,29884.8,South,Credit Card
+ORD1836,11-06-2024,CUST121,Laptop,Electronics,4,27989,11,99640.84,North,Cash on Delivery
+ORD1837,15-04-2024,CUST225,Smartwatch,Accessories,5,8386,5,39833.5,North,Debit Card
+ORD1838,03-09-2024,CUST147,Headphones,Accessories,2,4398,20,7036.8,East,Credit Card
+ORD1839,27-03-2024,CUST22,Smartwatch,Accessories,2,4332,15,7364.4,South,UPI
+ORD1840,17-07-2024,CUST5,Smartwatch,Accessories,2,1148,9,2089.36,South,Debit Card
+ORD1841,19-11-2024,CUST216,Mobile,Electronics,1,49930,5,47433.5,East,Cash on Delivery
+ORD1842,06-10-2024,CUST278,Tablet,Electronics,3,74688,19,181491.84,South,Credit Card
+ORD1843,02-03-2024,CUST150,Laptop,Electronics,3,69144,5,197060.4,North,Cash on Delivery
+ORD1844,27-01-2024,CUST246,Mobile,Electronics,2,65223,8,120010.32,South,Debit Card
+ORD1845,08-09-2024,CUST207,Mobile,Electronics,5,46923,18,192384.3,North,Debit Card
+ORD1846,30-07-2024,CUST6,Smartwatch,Accessories,2,4203,20,6724.8,North,Cash on Delivery
+ORD1847,30-05-2024,CUST99,Smartwatch,Accessories,2,8314,7,15464.04,North,Cash on Delivery
+ORD1848,04-07-2024,CUST64,Tablet,Electronics,5,32452,6,152524.4,South,Credit Card
+ORD1849,01-06-2024,CUST146,Headphones,Accessories,2,7861,17,13049.26,North,Credit Card
+ORD1850,30-10-2024,CUST90,Mobile,Electronics,4,40085,13,139495.8,North,Debit Card
+ORD1851,13-12-2024,CUST270,Mobile,Electronics,1,31799,0,31799,North,UPI
+ORD1852,27-11-2024,CUST238,Tablet,Electronics,4,52763,3,204720.44,East,UPI
+ORD1853,17-12-2024,CUST82,Mobile,Electronics,3,23778,19,57780.54,East,Credit Card
+ORD1854,19-11-2024,CUST94,Laptop,Electronics,4,8278,20,26489.6,North,Debit Card
+ORD1855,30-04-2024,CUST94,Smartwatch,Accessories,3,2791,19,6782.13,East,UPI
+ORD1856,28-01-2024,CUST259,Mobile,Electronics,2,16251,4,31201.92,South,Cash on Delivery
+ORD1857,27-11-2024,CUST30,Smartwatch,Accessories,3,4053,19,9848.79,South,UPI
+ORD1858,29-02-2024,CUST218,Tablet,Electronics,1,24156,14,20774.16,East,Debit Card
+ORD1859,22-12-2024,CUST169,Mobile,Electronics,3,35852,2,105404.88,East,Credit Card
+ORD1860,28-06-2024,CUST231,Mobile,Electronics,2,33865,11,60279.7,West,UPI
+ORD1861,11-09-2024,CUST293,Headphones,Accessories,4,9387,10,33793.2,West,Debit Card
+ORD1862,06-09-2024,CUST4,Laptop,Electronics,2,17059,10,30706.2,West,Cash on Delivery
+ORD1863,03-01-2024,CUST247,Tablet,Electronics,3,54474,18,134006.04,West,UPI
+ORD1864,16-07-2024,CUST278,Mobile,Electronics,1,60663,10,54596.7,West,Debit Card
+ORD1865,29-12-2024,CUST41,Smartwatch,Accessories,2,6207,3,12041.58,East,Credit Card
+ORD1866,07-11-2024,CUST68,Smartwatch,Accessories,3,1945,16,4901.4,North,Credit Card
+ORD1867,19-12-2024,CUST275,Laptop,Electronics,5,33669,1,166661.55,West,Cash on Delivery
+ORD1868,05-01-2024,CUST207,Mobile,Electronics,3,15029,5,42832.65,South,Debit Card
+ORD1869,29-05-2024,CUST179,Mobile,Electronics,4,19184,18,62923.52,West,Cash on Delivery
+ORD1870,11-04-2024,CUST101,Tablet,Electronics,3,36108,15,92075.4,North,Cash on Delivery
+ORD1871,31-08-2024,CUST290,Laptop,Electronics,4,15997,10,57589.2,East,UPI
+ORD1872,19-11-2024,CUST279,Laptop,Electronics,5,49128,7,228445.2,North,Cash on Delivery
+ORD1873,06-11-2024,CUST156,Mobile,Electronics,4,6805,5,25859,South,UPI
+ORD1874,14-03-2024,CUST175,Smartwatch,Accessories,3,1615,2,4748.1,East,Cash on Delivery
+ORD1875,10-12-2024,CUST233,Tablet,Electronics,5,77824,5,369664,North,Credit Card
+ORD1876,16-03-2024,CUST24,Mobile,Electronics,3,44531,3,129585.21,North,UPI
+ORD1877,09-03-2024,CUST224,Smartwatch,Accessories,1,2230,6,2096.2,West,Cash on Delivery
+ORD1878,28-07-2024,CUST292,Smartwatch,Accessories,4,5611,9,20424.04,East,Credit Card
+ORD1879,19-02-2024,CUST21,Mobile,Electronics,1,54644,18,44808.08,East,Credit Card
+ORD1880,20-07-2024,CUST267,Headphones,Accessories,3,9158,18,22528.68,North,Credit Card
+ORD1881,26-03-2024,CUST245,Laptop,Electronics,1,5472,1,5417.28,North,Credit Card
+ORD1882,01-03-2024,CUST12,Headphones,Accessories,1,4311,8,3966.12,South,UPI
+ORD1883,26-11-2024,CUST165,Headphones,Accessories,3,9525,12,25146,South,Cash on Delivery
+ORD1884,10-06-2024,CUST286,Smartwatch,Accessories,4,1739,15,5912.6,South,Credit Card
+ORD1885,01-10-2024,CUST166,Tablet,Electronics,3,10878,5,31002.3,East,Debit Card
+ORD1886,21-11-2024,CUST179,Smartwatch,Accessories,3,3207,3,9332.37,West,Credit Card
+ORD1887,28-09-2024,CUST282,Mobile,Electronics,4,19275,15,65535,South,UPI
+ORD1888,24-02-2024,CUST91,Tablet,Electronics,4,61104,2,239527.68,West,UPI
+ORD1889,25-01-2024,CUST132,Smartwatch,Accessories,3,5478,16,13804.56,North,UPI
+ORD1890,05-05-2024,CUST174,Tablet,Electronics,5,58564,15,248897,North,Debit Card
+ORD1891,23-03-2024,CUST283,Headphones,Accessories,5,2466,6,11590.2,West,Debit Card
+ORD1892,07-08-2024,CUST25,Smartwatch,Accessories,2,3804,2,7455.84,East,Cash on Delivery
+ORD1893,05-03-2024,CUST13,Smartwatch,Accessories,3,2292,1,6807.24,West,Debit Card
+ORD1894,12-05-2024,CUST228,Mobile,Electronics,2,32465,18,53242.6,South,Cash on Delivery
+ORD1895,24-02-2024,CUST188,Headphones,Accessories,2,6518,0,13036,East,UPI
+ORD1896,09-03-2024,CUST186,Smartwatch,Accessories,2,3670,13,6385.8,South,Credit Card
+ORD1897,05-09-2024,CUST261,Tablet,Electronics,1,25407,2,24898.86,East,Credit Card
+ORD1898,10-05-2024,CUST164,Headphones,Accessories,2,2542,12,4473.92,North,Debit Card
+ORD1899,10-03-2024,CUST251,Mobile,Electronics,2,6769,17,11236.54,South,Cash on Delivery
+ORD1900,27-03-2024,CUST110,Headphones,Accessories,2,6129,2,12012.84,East,Debit Card
+ORD1901,05-10-2024,CUST261,Headphones,Accessories,3,6489,7,18104.31,West,Credit Card
+ORD1902,13-06-2024,CUST215,Headphones,Accessories,4,7838,9,28530.32,South,UPI
+ORD1903,07-01-2024,CUST26,Smartwatch,Accessories,5,5321,10,23944.5,South,Credit Card
+ORD1904,12-11-2024,CUST134,Mobile,Electronics,5,30935,5,146941.25,South,Debit Card
+ORD1905,07-10-2024,CUST2,Smartwatch,Accessories,1,9362,0,9362,East,UPI
+ORD1906,07-08-2024,CUST5,Smartwatch,Accessories,4,4298,9,15644.72,West,UPI
+ORD1907,27-12-2024,CUST126,Laptop,Electronics,4,16486,11,58690.16,East,Cash on Delivery
+ORD1908,26-09-2024,CUST154,Laptop,Electronics,3,73363,18,180472.98,East,Cash on Delivery
+ORD1909,03-09-2024,CUST221,Laptop,Electronics,5,18677,3,90583.45,South,Debit Card
+ORD1910,19-11-2024,CUST74,Tablet,Electronics,5,63152,11,281026.4,South,Credit Card
+ORD1911,17-10-2024,CUST261,Headphones,Accessories,4,9945,11,35404.2,West,Credit Card
+ORD1912,02-07-2024,CUST48,Laptop,Electronics,1,65809,12,57911.92,South,Credit Card
+ORD1913,09-01-2024,CUST87,Mobile,Electronics,2,73791,7,137251.26,South,Cash on Delivery
+ORD1914,01-09-2024,CUST98,Mobile,Electronics,1,33514,2,32843.72,South,UPI
+ORD1915,01-01-2024,CUST134,Headphones,Accessories,1,6598,17,5476.34,West,Credit Card
+ORD1916,18-04-2024,CUST77,Headphones,Accessories,1,4002,7,3721.86,South,Credit Card
+ORD1917,31-03-2024,CUST254,Tablet,Electronics,1,26637,2,26104.26,West,UPI
+ORD1918,04-05-2024,CUST138,Mobile,Electronics,1,23890,7,22217.7,South,UPI
+ORD1919,30-03-2024,CUST145,Laptop,Electronics,2,67034,4,128705.28,South,UPI
+ORD1920,28-10-2024,CUST39,Tablet,Electronics,1,61187,1,60575.13,East,Credit Card
+ORD1921,08-01-2024,CUST44,Smartwatch,Accessories,1,3346,0,3346,East,UPI
+ORD1922,15-09-2024,CUST272,Smartwatch,Accessories,2,4257,20,6811.2,North,Credit Card
+ORD1923,30-09-2024,CUST212,Tablet,Electronics,4,72996,20,233587.2,South,UPI
+ORD1924,11-12-2024,CUST248,Mobile,Electronics,4,40120,4,154060.8,East,Debit Card
+ORD1925,26-01-2024,CUST261,Mobile,Electronics,4,18375,13,63945,West,UPI
+ORD1926,13-04-2024,CUST165,Laptop,Electronics,2,56714,20,90742.4,East,Credit Card
+ORD1927,26-05-2024,CUST105,Laptop,Electronics,5,24885,9,113226.75,North,UPI
+ORD1928,11-12-2024,CUST264,Laptop,Electronics,3,41836,10,112957.2,West,UPI
+ORD1929,23-04-2024,CUST6,Headphones,Accessories,5,9589,2,46986.1,West,UPI
+ORD1930,18-12-2024,CUST31,Tablet,Electronics,4,77496,2,303784.32,West,Debit Card
+ORD1931,06-05-2024,CUST174,Headphones,Accessories,5,3341,3,16203.85,North,Debit Card
+ORD1932,10-06-2024,CUST48,Tablet,Electronics,3,13297,8,36699.72,East,UPI
+ORD1933,21-06-2024,CUST266,Laptop,Electronics,5,69652,7,323881.8,East,UPI
+ORD1934,12-01-2024,CUST167,Headphones,Accessories,2,9563,19,15492.06,North,Debit Card
+ORD1935,25-01-2024,CUST119,Mobile,Electronics,5,25250,6,118675,South,Cash on Delivery
+ORD1936,13-08-2024,CUST104,Tablet,Electronics,4,20521,13,71413.08,West,Debit Card
+ORD1937,02-12-2024,CUST292,Smartwatch,Accessories,1,1146,0,1146,North,Debit Card
+ORD1938,17-05-2024,CUST98,Tablet,Electronics,1,59542,0,59542,East,Debit Card
+ORD1939,17-11-2024,CUST92,Laptop,Electronics,4,19828,5,75346.4,South,Cash on Delivery
+ORD1940,21-09-2024,CUST192,Headphones,Accessories,3,6664,12,17592.96,South,Debit Card
+ORD1941,20-11-2024,CUST103,Headphones,Accessories,5,9745,20,38980,West,Cash on Delivery
+ORD1942,12-11-2024,CUST1,Mobile,Electronics,4,35254,12,124094.08,South,Cash on Delivery
+ORD1943,21-12-2024,CUST6,Smartwatch,Accessories,1,7094,14,6100.84,South,Credit Card
+ORD1944,16-01-2024,CUST108,Mobile,Electronics,5,41748,17,173254.2,North,Debit Card
+ORD1945,28-07-2024,CUST161,Headphones,Accessories,4,1552,0,6208,North,UPI
+ORD1946,03-04-2024,CUST292,Tablet,Electronics,5,20964,19,84904.2,South,Cash on Delivery
+ORD1947,04-01-2024,CUST118,Mobile,Electronics,5,41518,15,176451.5,East,Debit Card
+ORD1948,03-11-2024,CUST227,Laptop,Electronics,3,35478,7,98983.62,North,UPI
+ORD1949,25-06-2024,CUST114,Smartwatch,Accessories,5,5994,17,24875.1,West,Credit Card
+ORD1950,22-09-2024,CUST184,Headphones,Accessories,1,3643,12,3205.84,East,UPI
+ORD1951,22-05-2024,CUST167,Tablet,Electronics,3,57490,0,172470,South,UPI
+ORD1952,04-02-2024,CUST13,Headphones,Accessories,4,1549,15,5266.6,South,Debit Card
+ORD1953,12-07-2024,CUST2,Smartwatch,Accessories,4,8615,4,33081.6,West,Credit Card
+ORD1954,22-02-2024,CUST15,Tablet,Electronics,2,25490,11,45372.2,East,Cash on Delivery
+ORD1955,27-03-2024,CUST187,Tablet,Electronics,3,73832,20,177196.8,South,Debit Card
+ORD1956,29-06-2024,CUST300,Tablet,Electronics,4,17264,16,58007.04,South,UPI
+ORD1957,17-01-2024,CUST81,Mobile,Electronics,5,53171,6,249903.7,West,UPI
+ORD1958,09-12-2024,CUST48,Laptop,Electronics,4,41044,4,157608.96,West,UPI
+ORD1959,16-06-2024,CUST228,Laptop,Electronics,1,79483,17,65970.89,East,Credit Card
+ORD1960,15-02-2024,CUST83,Mobile,Electronics,1,15696,2,15382.08,West,Debit Card
+ORD1961,24-09-2024,CUST245,Laptop,Electronics,2,38676,5,73484.4,North,Credit Card
+ORD1962,26-09-2024,CUST111,Laptop,Electronics,1,68932,8,63417.44,North,Debit Card
+ORD1963,04-09-2024,CUST223,Mobile,Electronics,2,13550,2,26558,West,Cash on Delivery
+ORD1964,07-02-2024,CUST286,Smartwatch,Accessories,4,5436,1,21526.56,North,Credit Card
+ORD1965,06-01-2024,CUST274,Laptop,Electronics,4,48257,0,193028,South,Credit Card
+ORD1966,02-06-2024,CUST34,Smartwatch,Accessories,2,3736,14,6425.92,East,Cash on Delivery
+ORD1967,02-11-2024,CUST8,Smartwatch,Accessories,5,1270,10,5715,East,Credit Card
+ORD1968,22-08-2024,CUST262,Laptop,Electronics,5,39944,19,161773.2,West,Credit Card
+ORD1969,02-04-2024,CUST259,Mobile,Electronics,2,7064,3,13704.16,South,UPI
+ORD1970,20-04-2024,CUST73,Headphones,Accessories,1,8261,13,7187.07,North,Credit Card
+ORD1971,17-03-2024,CUST184,Headphones,Accessories,4,5739,13,19971.72,East,Credit Card
+ORD1972,01-01-2024,CUST265,Smartwatch,Accessories,3,8579,14,22133.82,East,UPI
+ORD1973,11-01-2024,CUST62,Smartwatch,Accessories,4,3565,14,12263.6,North,Debit Card
+ORD1974,29-07-2024,CUST226,Smartwatch,Accessories,2,7779,4,14935.68,West,Cash on Delivery
+ORD1975,26-08-2024,CUST29,Smartwatch,Accessories,4,4717,1,18679.32,North,Credit Card
+ORD1976,28-11-2024,CUST100,Laptop,Electronics,4,5443,16,18288.48,West,Debit Card
+ORD1977,01-03-2024,CUST99,Tablet,Electronics,4,48442,4,186017.28,North,UPI
+ORD1978,27-07-2024,CUST153,Laptop,Electronics,2,64544,9,117470.08,West,UPI
+ORD1979,19-12-2024,CUST90,Laptop,Electronics,5,44576,14,191676.8,West,Credit Card
+ORD1980,13-12-2024,CUST162,Laptop,Electronics,5,73678,15,313131.5,West,Cash on Delivery
+ORD1981,22-03-2024,CUST74,Smartwatch,Accessories,5,3818,0,19090,East,Debit Card
+ORD1982,08-09-2024,CUST284,Tablet,Electronics,3,46796,17,116522.04,North,Debit Card
+ORD1983,29-03-2024,CUST197,Tablet,Electronics,4,54326,10,195573.6,East,Cash on Delivery
+ORD1984,05-08-2024,CUST237,Headphones,Accessories,5,6085,15,25861.25,North,Credit Card
+ORD1985,09-03-2024,CUST251,Mobile,Electronics,5,29957,2,146789.3,North,Debit Card
+ORD1986,09-02-2024,CUST155,Mobile,Electronics,2,12249,7,22783.14,South,UPI
+ORD1987,22-08-2024,CUST233,Tablet,Electronics,2,28157,5,53498.3,East,Credit Card
+ORD1988,18-09-2024,CUST138,Mobile,Electronics,1,8979,3,8709.63,East,UPI
+ORD1989,19-07-2024,CUST153,Mobile,Electronics,3,36721,16,92536.92,East,Credit Card
+ORD1990,28-09-2024,CUST175,Headphones,Accessories,2,4304,20,6886.4,North,Debit Card
+ORD1991,27-09-2024,CUST85,Smartwatch,Accessories,5,2515,7,11694.75,South,UPI
+ORD1992,01-01-2024,CUST144,Tablet,Electronics,3,31326,12,82700.64,West,Credit Card
+ORD1993,16-12-2024,CUST109,Mobile,Electronics,4,38382,15,130498.8,West,Debit Card
+ORD1994,27-02-2024,CUST43,Smartwatch,Accessories,3,3904,16,9838.08,West,Credit Card
+ORD1995,11-01-2024,CUST106,Headphones,Accessories,1,9172,15,7796.2,West,Credit Card
+ORD1996,04-09-2024,CUST263,Headphones,Accessories,1,8231,7,7654.83,North,Credit Card
+ORD1997,27-10-2024,CUST18,Smartwatch,Accessories,4,9672,8,35592.96,South,Cash on Delivery
+ORD1998,12-08-2024,CUST64,Mobile,Electronics,4,69664,3,270296.32,East,UPI
+ORD1999,01-11-2024,CUST62,Tablet,Electronics,3,45857,17,114183.93,East,Cash on Delivery
